@@ -1,0 +1,1345 @@
+﻿Log file open, 12/14/18 13:55:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BuildingEscape
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.148918
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.134s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=yauheni.dasko -epicuserid=4028069c601940f586943140cc16a6f7 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2018.12.14-10.55.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.14-10.55.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2018.12.14-10.55.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2018.12.14-10.55.49:072][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:072][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.14-10.55.49:072][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.14-10.55.49:072][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:072][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.14-10.55.49:072][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:072][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.14-10.55.49:072][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.14-10.55.49:072][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.14-10.55.49:072][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.14-10.55.49:072][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.14-10.55.49:072][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.14-10.55.49:073][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.14-10.55.49:074][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.14-10.55.49:074][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.14-10.55.49:074][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.14-10.55.49:082][  0]LogHAL: Display: Platform has ~ 16 GB [17053196288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.14-10.55.49:082][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.14-10.55.49:082][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.14-10.55.49:083][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.14-10.55.49:083][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.14-10.55.49:084][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.14-10.55.49:084][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2018.12.14-10.55.49:084][  0]LogInit: Computer: EPBYMINW1694
+[2018.12.14-10.55.49:084][  0]LogInit: User: YauheniDasko
+[2018.12.14-10.55.49:084][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.12.14-10.55.49:084][  0]LogInit: High frequency timer resolution =2.835942 MHz
+[2018.12.14-10.55.49:084][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.14-10.55.49:084][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.14-10.55.49:084][  0]LogMemory: Process Physical Memory: 102.71 MB used, 102.71 MB peak
+[2018.12.14-10.55.49:084][  0]LogMemory: Process Virtual Memory: 84.59 MB used, 84.59 MB peak
+[2018.12.14-10.55.49:084][  0]LogMemory: Physical Memory: 7630.48 MB used,  8632.72 MB free, 16263.20 MB total
+[2018.12.14-10.55.49:084][  0]LogMemory: Virtual Memory: 4624.69 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2018.12.14-10.55.49:110][  0]LogInit: Using OS detected language (en-US).
+[2018.12.14-10.55.49:110][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.14-10.55.49:111][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.14-10.55.49:504][  0]LogStreaming: Display: Took  0.394s to InitEngineTextLocalization.
+[2018.12.14-10.55.49:504][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.14-10.55.49:537][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.14-10.55.49:537][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.14-10.55.49:801][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.14-10.55.49:801][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.14-10.55.49:823][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.12.14-10.55.49:823][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2018.12.14-10.55.49:825][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.14-10.55.49:825][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.14-10.55.49:825][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.14-10.55.49:831][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.14-10.55.49:831][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.14-10.55.49:831][  0]LogWindows: EnumDisplayDevices:
+[2018.12.14-10.55.49:831][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.12.14-10.55.49:831][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:1)
+[2018.12.14-10.55.49:832][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.12.14-10.55.49:832][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.12.14-10.55.49:832][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.12.14-10.55.49:832][  0]LogD3D11RHI:   Driver Version: 21.20.16.4590 (internal:21.20.16.4590, unified:21.20.16.4590)
+[2018.12.14-10.55.49:832][  0]LogD3D11RHI:      Driver Date: 1-18-2017
+[2018.12.14-10.55.49:832][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2018.12.14-10.55.49:855][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2018.12.14-10.55.49:855][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.14-10.55.49:860][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.12.14-10.55.50:232][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.14-10.55.50:244][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.14-10.55.50:256][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.14-10.55.50:267][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.14-10.55.50:279][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.14-10.55.50:290][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.14-10.55.50:302][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.14-10.55.50:313][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.14-10.55.50:320][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.14-10.55.50:385][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-10.55.50:387][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.14-10.55.50:460][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.14-10.55.50:460][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.14-10.55.50:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.14-10.55.50:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.14-10.55.50:493][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.14-10.55.50:504][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.14-10.55.50:515][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.14-10.55.50:530][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.14-10.55.50:571][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.14-10.55.50:571][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.14-10.55.50:571][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.14-10.55.50:632][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Intermediate/Shaders/WorkingDirectory/16664/).
+[2018.12.14-10.55.50:633][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yauheni_Dasko/AppData/Local/Temp/UnrealShaderWorkingDir/A4FD81334F0767B17CC9A7A77A984758/'.
+[2018.12.14-10.55.50:636][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.14-10.55.50:636][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.14-10.55.50:636][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.14-10.55.51:102][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.14-10.55.51:147][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Yauheni_Dasko/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.14-10.55.51:147][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Yauheni_Dasko/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.14-10.55.51:147][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.14-10.55.51:147][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.14-10.55.51:147][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.14-10.55.51:147][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.14-10.55.51:159][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.14-10.55.51:162][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2018.12.14-10.55.51:176][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yauheni_Dasko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.14-10.55.51:176][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.14-10.55.51:176][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.14-10.55.51:200][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.14-10.55.51:201][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.14-10.55.51:202][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.14-10.55.51:293][  0]LogAssetRegistry: FAssetRegistry took 0.0322 seconds to start up
+[2018.12.14-10.55.51:601][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.14-10.55.51:747][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.14-10.55.51:753][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.14-10.55.51:754][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.14-10.55.51:754][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.14-10.55.51:754][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.14-10.55.51:768][  0]LogNetVersion: BuildingEscape 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3852057107)
+[2018.12.14-10.55.52:334][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.132526 seconds
+[2018.12.14-10.55.52:340][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.14-10.55.52:340][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.14-10.55.52:340][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.14-10.55.53:230][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.14-10.55.53:244][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.14-10.55.53:985][  0]SourceControl: Source control is disabled
+[2018.12.14-10.55.53:985][  0]SourceControl: Source control is disabled
+[2018.12.14-10.55.53:987][  0]SourceControl: Source control is disabled
+[2018.12.14-10.55.53:988][  0]SourceControl: Source control is disabled
+[2018.12.14-10.55.54:197][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.14-10.55.54:271][  0]LogOcInput: OculusInput pre-init called
+[2018.12.14-10.55.55:745][  0]LogEngine: Initializing Engine...
+[2018.12.14-10.55.55:746][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.14-10.55.55:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.14-10.55.55:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.14-10.55.55:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.14-10.55.55:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.14-10.55.55:965][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.14-10.55.55:979][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.14-10.55.55:989][  0]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-10.55.56:013][  0]LogInit: FAudioDevice initialized.
+[2018.12.14-10.55.56:013][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.14-10.55.56:094][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Yauheni_Dasko/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.14-10.55.56:112][  0]LogInit: Texture streaming: Enabled
+[2018.12.14-10.55.56:132][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.14-10.55.56:146][  0]LogInit: Transaction tracking system initialized
+[2018.12.14-10.55.56:172][  0]BlueprintLog: New page: Editor Load
+[2018.12.14-10.55.56:256][  0]LocalizationService: Localization service is disabled
+[2018.12.14-10.55.56:710][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/' took 0.01s
+[2018.12.14-10.55.56:710][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.14-10.55.56:710][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.14-10.55.56:710][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.14-10.55.56:710][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.14-10.55.56:710][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.14-10.55.56:710][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.14-10.55.56:711][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.14-10.55.58:111][  0]SourceControl: Source control is disabled
+[2018.12.14-10.55.58:111][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.14-10.55.58:111][  0]LightingResults: New page: Lighting Build
+[2018.12.14-10.55.58:114][  0]MapCheck: New page: Map Check
+[2018.12.14-10.55.58:114][  0]LightingResults: New page: Lighting Build
+[2018.12.14-10.55.58:387][  0]LogAIModule: Creating AISystem for world NewMap
+[2018.12.14-10.55.58:393][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.14-10.55.58:457][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.14-10.55.58:458][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2018.12.14-10.55.58:458][  0]LogFileHelpers: Loading map 'NewMap' took 0.347
+[2018.12.14-10.55.58:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-10.55.58:610][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-10.55.58:617][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-10.55.58:625][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-10.55.58:633][  0]LogCollectionManager: Loaded 0 collections in 0.001596 seconds
+[2018.12.14-10.55.58:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Collections/' took 0.01s
+[2018.12.14-10.55.58:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/Developers/YauheniDasko/Collections/' took 0.01s
+[2018.12.14-10.55.58:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/Collections/' took 0.01s
+[2018.12.14-10.55.58:693][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.14-10.55.58:710][  0]LogContentBrowser: Native class hierarchy populated in 0.0162 seconds. Added 2712 classes and 655 folders.
+[2018.12.14-10.55.58:724][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.12.14-10.55.58:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:745][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-10.55.58:787][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.14-10.55.58:793][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.14-10.55.58:806][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.14-10.55.58:809][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.14-10.55.58:818][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.14-10.55.58:907][  0]LogRenderer: Reallocating scene render targets to support 880x512 Format 10 NumSamples 1 (Frame:1).
+[2018.12.14-10.55.59:498][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.14-10.55.59:596][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.14-10.55.59:596][  0]LogLoad: (Engine Initialization) Total time: 12.06 seconds
+[2018.12.14-10.55.59:596][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.14-10.55.59:615][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.14-10.55.59:669][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.14-10.55.59:982][  1]LogAssetRegistry: Asset discovery search completed in 8.7122 seconds
+[2018.12.14-10.55.59:987][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.14-10.55.59:988][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000107 seconds (updated 0 objects)
+[2018.12.14-10.56.10:193][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-10.56.13:779][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-10.56.25:646][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-10.56.44:028][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-10.56.45:197][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-10.57.11:053][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-10.57.13:101][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.07.36:918][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.07.54:547][862]LogEditorViewport: Clicking Background
+[2018.12.14-11.07.56:616][984]LogEditorViewport: Clicking Background
+[2018.12.14-11.07.57:266][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.12.14-11.08.10:342][802]LogEditorViewport: Clicking Background
+[2018.12.14-11.08.12:537][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.12.14-11.08.27:248][801]LogEditorViewport: Clicking Background
+[2018.12.14-11.08.30:074][969]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.08.31:730][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.08.31:759][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.08.33:353][162]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.14-11.08.33:362][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.08.33:477][162]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap324E9EE04972E622D63646924AF44A6C.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.08.33:501][162]LogFileHelpers: Saving map 'NewMap' took 0.139
+[2018.12.14-11.08.37:170][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.08.41:034][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.09.15:715][653]LogEditorViewport: Clicking Background
+[2018.12.14-11.09.26:073][273]LogEditorViewport: Clicking Background
+[2018.12.14-11.09.34:983][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.09.34:988][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.09.35:100][804]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap9816A362467EEC79249FDDB1044CE786.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.09.35:123][804]LogFileHelpers: Saving map 'NewMap' took 0.136
+[2018.12.14-11.09.37:097][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.09.38:739][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.09.46:384][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.09.46:410][260]MapCheck: New page: Map Check
+[2018.12.14-11.09.46:455][260]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.14-11.09.46:455][260]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.14-11.09.46:539][260]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Chrome, compiling. 
+[2018.12.14-11.09.46:557][260]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.09.46:557][260]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.14-11.09.46:574][260]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.12.14-11.09.46:589][260]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.12.14-11.09.46:608][260]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.14-11.09.46:608][260]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.09.46:608][260]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.12.14-11.09.46:628][260]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.12.14-11.09.46:652][260]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.12.14-11.09.46:676][260]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.12.14-11.09.46:701][260]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.12.14-11.09.47:925][260]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.14-11.09.47:925][260]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.14-11.09.47:925][260]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.14-11.09.47:925][260]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.14-11.09.47:925][260]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.09.47:925][260]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.09.47:925][260]TextureStreamingBuild: Display: Compiling optional shaders took 1.397 seconds.
+[2018.12.14-11.09.47:998][260]LogLevel: Display: Export Material TexCoord Scales took 0.073 seconds.
+[2018.12.14-11.09.48:008][260]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2018.12.14-11.09.48:029][260]LightingResults: New page: Lighting Build - Dec 14, 2018, 5:09:48 PM
+[2018.12.14-11.09.48:066][260]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.14-11.09.48:172][260]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.14-11.09.48:187][260]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.14-11.09.48:708][260]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.14-11.09.48:709][260]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16664
+[2018.12.14-11.09.53:865][260]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.14-11.09.53:865][260]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.14-11.09.53:865][260]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.14-11.09.53:865][260]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.14-11.09.53:865][260]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.14-11.09.53:865][260]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.14-11.09.54:065][260]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.14-11.09.54:065][260]MapCheck: New page: NewMap - Dec 14, 2018, 5:09:54 PM
+[2018.12.14-11.09.54:074][260]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.12.14-11.09.54:075][260]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 9.329ms to complete.
+[2018.12.14-11.09.54:097][260]LogEditorBuildUtils: Build time 0:07
+[2018.12.14-11.09.54:217][261]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2018.12.14-11.09.54:241][261]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.09.54:241][261]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2018.12.14-11.09.54:318][261]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.09.58:224][274]Job is a success!
+[2018.12.14-11.09.58:658][275]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.12.14-11.09.58:659][275]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.14-11.09.58:659][275]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2018.12.14-11.09.58:659][275]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.14-11.09.58:659][275]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2018.12.14-11.09.58:659][275]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2018.12.14-11.09.58:659][275]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2018.12.14-11.09.59:038][275]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.14-11.09.59:038][275]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.14-11.09.59:038][275]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.12.14-11.09.59:038][275]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.12.14-11.09.59:121][275]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.12.14-11.09.59:121][275]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X256)
+[2018.12.14-11.09.59:154][275]Lightmass on EPBYMINW1694: 2.77 sec total, 112 ms importing, 20 ms setup, 315 ms photons, 2.30 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 9.17 sec total, 2.87 sec processing.
+[2018.12.14-11.09.59:187][275]LogStaticLightingSystem: Illumination: 10.8 sec (355 ms encoding lightmaps, 77 ms encoding shadowmaps)
+[2018.12.14-11.09.59:187][275]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.14-11.09.59:187][275]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.14-11.09.59:874][275]DumpUnbuiltLightIteractions
+[2018.12.14-11.09.59:874][275]Lights with unbuilt interactions: 0
+[2018.12.14-11.09.59:874][275]
+[2018.12.14-11.09.59:874][275]Primitives with unbuilt interactions: 0
+[2018.12.14-11.10.00:022][276]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.14-11.10.00:022][276]MapCheck: New page: NewMap - Dec 14, 2018, 5:10:00 PM
+[2018.12.14-11.10.00:023][276]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.106ms to complete.
+[2018.12.14-11.10.45:136][442]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.10.45:143][442]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.11.06:697][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2018.12.14-11.11.16:319][598]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.14-11.11.28:687][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.11.28:699][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.11.28:896][963]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap56CD224D4545A387DEFF6FB51564ACA1.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.11.28:934][963]LogFileHelpers: Saving map 'NewMap' took 0.235
+[2018.12.14-11.11.28:937][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.12.14-11.11.29:142][963]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap_BuiltData37C92E8D40C21887B2234B8005FAAC81.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap_BuiltData.uasset'
+[2018.12.14-11.11.39:324][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.11.41:359][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.12.00:171][442]LogEditorViewport: Clicking Background
+[2018.12.14-11.12.00:947][488]LogEditorViewport: Clicking Background
+[2018.12.14-11.12.02:932][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.12.16:508][203]Cmd: TRANSACTION UNDO
+[2018.12.14-11.12.16:509][203]LogEditorTransaction: Undo Set Location
+[2018.12.14-11.12.19:317][366]LogEditorViewport: Clicking Background
+[2018.12.14-11.12.37:561][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.12.41:682][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2018.12.14-11.12.47:113][ 22]LogEditorViewport: Clicking Background
+[2018.12.14-11.12.47:940][ 71]LogEditorViewport: Clicking Background
+[2018.12.14-11.12.48:774][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.12.54:449][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.12.56:893][601]LogEditorViewport: Clicking Background
+[2018.12.14-11.12.59:519][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.13.09:051][325]LogEditorViewport: Clicking Background
+[2018.12.14-11.13.09:982][380]LogEditorViewport: Clicking Background
+[2018.12.14-11.13.10:649][420]LogEditorViewport: Clicking Background
+[2018.12.14-11.13.11:916][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2018.12.14-11.13.17:588][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.13.47:112][520]LogEditorViewport: Clicking Background
+[2018.12.14-11.13.50:928][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.13.50:935][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.13.51:047][747]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMapD087ABFA4DFDCF9131E60D9C324BE45F.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.13.51:070][747]LogFileHelpers: Saving map 'NewMap' took 0.136
+[2018.12.14-11.14.01:454][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.14.23:153][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.14.32:580][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.14.37:918][545]LogEditorViewport: Clicking Background
+[2018.12.14-11.14.43:240][863]LogEditorViewport: Clicking Background
+[2018.12.14-11.14.44:290][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.12.14-11.14.47:076][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.15.08:007][929]LogEditorViewport: Clicking Background
+[2018.12.14-11.15.09:805][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.15.09:810][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.15.09:923][ 35]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap9E5407AD4E6B725132F10285C93BF34A.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.15.09:952][ 35]LogFileHelpers: Saving map 'NewMap' took 0.142
+[2018.12.14-11.15.12:101][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.15.13:785][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.15.15:619][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.15.15:672][303]MapCheck: New page: Map Check
+[2018.12.14-11.15.15:690][303]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.14-11.15.15:691][303]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.14-11.15.15:763][303]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Chrome, compiling. 
+[2018.12.14-11.15.15:776][303]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.14-11.15.15:793][303]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.15.15:793][303]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.12.14-11.15.15:809][303]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.12.14-11.15.15:829][303]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.15.15:830][303]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.15.15:830][303]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.12.14-11.15.15:855][303]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.12.14-11.15.15:878][303]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.12.14-11.15.15:904][303]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.12.14-11.15.15:928][303]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.12.14-11.15.17:182][303]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.14-11.15.17:182][303]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.14-11.15.17:182][303]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.14-11.15.17:182][303]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.14-11.15.17:182][303]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.15.17:182][303]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.15.17:182][303]TextureStreamingBuild: Display: Compiling optional shaders took 1.427 seconds.
+[2018.12.14-11.15.17:302][303]LogLevel: Display: Export Material TexCoord Scales took 0.120 seconds.
+[2018.12.14-11.15.17:312][303]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2018.12.14-11.15.17:331][303]LightingResults: New page: Lighting Build - Dec 14, 2018, 5:15:17 PM
+[2018.12.14-11.15.17:344][303]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.14-11.15.17:347][303]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.14-11.15.17:347][303]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.14-11.15.17:348][303]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.14-11.15.17:348][303]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16664
+[2018.12.14-11.15.21:928][303]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.14-11.15.21:928][303]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.14-11.15.21:928][303]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.14-11.15.21:929][303]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.14-11.15.21:929][303]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.14-11.15.21:929][303]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.14-11.15.22:045][303]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.14-11.15.22:045][303]MapCheck: New page: NewMap - Dec 14, 2018, 5:15:22 PM
+[2018.12.14-11.15.22:046][303]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.12.14-11.15.22:046][303]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.825ms to complete.
+[2018.12.14-11.15.22:069][303]LogEditorBuildUtils: Build time 0:06
+[2018.12.14-11.15.29:133][514]Job is a success!
+[2018.12.14-11.15.29:330][516]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2018.12.14-11.15.29:330][516]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.14-11.15.29:330][516]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2018.12.14-11.15.29:331][516]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.14-11.15.29:331][516]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2018.12.14-11.15.29:331][516]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2018.12.14-11.15.29:331][516]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2018.12.14-11.15.29:903][516]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.14-11.15.29:904][516]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.14-11.15.29:904][516]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.12.14-11.15.29:904][516]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.12.14-11.15.30:012][516]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.12.14-11.15.30:012][516]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X256)
+[2018.12.14-11.15.30:054][516]Lightmass on EPBYMINW1694: 6.49 sec total, 302 ms importing, 39 ms setup, 613 ms photons, 5.49 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 21.9 sec total, 11.1 sec processing.
+[2018.12.14-11.15.30:061][516]LogStaticLightingSystem: Illumination: 12.6 sec (539 ms encoding lightmaps, 102 ms encoding shadowmaps)
+[2018.12.14-11.15.30:061][516]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.14-11.15.30:061][516]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.14-11.15.30:941][516]DumpUnbuiltLightIteractions
+[2018.12.14-11.15.30:941][516]Lights with unbuilt interactions: 0
+[2018.12.14-11.15.30:942][516]
+[2018.12.14-11.15.30:942][516]Primitives with unbuilt interactions: 0
+[2018.12.14-11.15.31:107][517]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.14-11.15.31:107][517]MapCheck: New page: NewMap - Dec 14, 2018, 5:15:31 PM
+[2018.12.14-11.15.31:108][517]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.76ms to complete.
+[2018.12.14-11.15.34:725][639]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.15.34:767][639]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.15.36:999][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.15.38:359][760]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-11.15.38:389][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.15.38:390][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-11.15.38:390][760]PIE: New page: PIE session: NewMap (Dec 14, 2018, 5:15:38 PM)
+[2018.12.14-11.15.38:406][760]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.12.14-11.15.38:416][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009840s)
+[2018.12.14-11.15.38:418][760]LogAIModule: Creating AISystem for world NewMap
+[2018.12.14-11.15.38:418][760]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2018.12.14-11.15.38:418][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012517s)
+[2018.12.14-11.15.38:468][760]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-11.15.38:485][760]LogInit: FAudioDevice initialized.
+[2018.12.14-11.15.38:486][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.15.38:535][760]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/BuildingEscape.BuildingEscapeGameMode'
+[2018.12.14-11.15.38:535][760]LogLoad: Game class is 'GameModeBase'
+[2018.12.14-11.15.38:538][760]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.12.14-14.15.38
+[2018.12.14-11.15.38:539][760]LogWorld: Bringing up level for play took: 0.001459
+[2018.12.14-11.15.38:561][760]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2018.12.14-11.15.38:563][760]LogTemp: Warning: SM_Chair_5 is at X=-192.000 Y=231.000 Z=20.000 position
+[2018.12.14-11.15.38:563][760]LogTemp: Warning: SM_Chair2_8 is at X=-12.000 Y=231.000 Z=20.000 position
+[2018.12.14-11.15.38:564][760]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.641
+[2018.12.14-11.15.38:564][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.15.48:417][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.15.48:418][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-11.15.48:477][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-11.15.48:478][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.15.48:537][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-11.15.48:577][163]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.14-11.16.08:302][894]Cmd: SELECT NONE
+[2018.12.14-11.16.10:102][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.16.11:497][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.16.45:742][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.16.49:746][296]LogEditorViewport: Clicking Background
+[2018.12.14-11.16.55:608][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.17.04:547][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.17.36:631][627]LogEditorViewport: Clicking Background
+[2018.12.14-11.17.38:955][764]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.17.38:961][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.17.39:073][764]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap885896DF4A84EFE06C94B4A11F964D00.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.17.39:097][764]LogFileHelpers: Saving map 'NewMap' took 0.136
+[2018.12.14-11.17.39:099][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.12.14-11.17.39:241][764]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap_BuiltData29544A11401389284F709DB6993D6678.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap_BuiltData.uasset'
+[2018.12.14-11.17.39:759][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.17.39:809][798]MapCheck: New page: Map Check
+[2018.12.14-11.17.39:823][798]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.14-11.17.39:823][798]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.14-11.17.39:870][798]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Chrome, compiling. 
+[2018.12.14-11.17.39:877][798]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.14-11.17.39:885][798]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.17.39:885][798]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.17.39:885][798]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.12.14-11.17.39:896][798]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.12.14-11.17.39:903][798]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.12.14-11.17.39:912][798]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.14-11.17.39:912][798]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.12.14-11.17.39:924][798]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.12.14-11.17.39:940][798]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.12.14-11.17.39:954][798]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.12.14-11.17.41:070][798]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.14-11.17.41:070][798]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.14-11.17.41:070][798]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.14-11.17.41:070][798]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.14-11.17.41:070][798]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.17.41:070][798]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.17.41:070][798]TextureStreamingBuild: Display: Compiling optional shaders took 1.204 seconds.
+[2018.12.14-11.17.41:134][798]LogLevel: Display: Export Material TexCoord Scales took 0.065 seconds.
+[2018.12.14-11.17.41:145][798]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2018.12.14-11.17.41:167][798]LightingResults: New page: Lighting Build - Dec 14, 2018, 5:17:41 PM
+[2018.12.14-11.17.41:176][798]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.14-11.17.41:178][798]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.14-11.17.41:178][798]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.14-11.17.41:179][798]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.14-11.17.41:179][798]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16664
+[2018.12.14-11.17.46:750][798]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.14-11.17.46:750][798]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.14-11.17.46:750][798]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.14-11.17.46:751][798]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.14-11.17.46:751][798]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.14-11.17.46:751][798]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.14-11.17.46:874][798]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.14-11.17.46:874][798]MapCheck: New page: NewMap - Dec 14, 2018, 5:17:46 PM
+[2018.12.14-11.17.46:874][798]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.12.14-11.17.46:875][798]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.839ms to complete.
+[2018.12.14-11.17.46:897][798]LogEditorBuildUtils: Build time 0:07
+[2018.12.14-11.17.49:817][809]Job is a success!
+[2018.12.14-11.17.50:252][810]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.12.14-11.17.50:252][810]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.14-11.17.50:252][810]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2018.12.14-11.17.50:252][810]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.14-11.17.50:252][810]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2018.12.14-11.17.50:252][810]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2018.12.14-11.17.50:252][810]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2018.12.14-11.17.50:631][810]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.14-11.17.50:632][810]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.14-11.17.50:632][810]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.12.14-11.17.50:632][810]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.12.14-11.17.50:710][810]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.12.14-11.17.50:710][810]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X256)
+[2018.12.14-11.17.50:745][810]Lightmass on EPBYMINW1694: 2.58 sec total, 145 ms importing, 19 ms setup, 361 ms photons, 2.03 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 8.12 sec total, 2.89 sec processing.
+[2018.12.14-11.17.50:750][810]LogStaticLightingSystem: Illumination: 9.23 sec (361 ms encoding lightmaps, 73 ms encoding shadowmaps)
+[2018.12.14-11.17.50:750][810]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.14-11.17.50:750][810]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.14-11.17.50:754][810]DumpUnbuiltLightIteractions
+[2018.12.14-11.17.50:754][810]Lights with unbuilt interactions: 0
+[2018.12.14-11.17.50:754][810]
+[2018.12.14-11.17.50:754][810]Primitives with unbuilt interactions: 0
+[2018.12.14-11.17.50:874][811]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.14-11.17.50:874][811]MapCheck: New page: NewMap - Dec 14, 2018, 5:17:50 PM
+[2018.12.14-11.17.50:875][811]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.942ms to complete.
+[2018.12.14-11.19.16:859][101]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.19.16:865][101]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.19.19:460][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.19.21:070][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.19.22:560][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-11.19.22:582][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.19.22:583][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-11.19.22:583][395]PIE: New page: PIE session: NewMap (Dec 14, 2018, 5:19:22 PM)
+[2018.12.14-11.19.22:583][395]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.12.14-11.19.22:590][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006555s)
+[2018.12.14-11.19.22:592][395]LogAIModule: Creating AISystem for world NewMap
+[2018.12.14-11.19.22:592][395]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2018.12.14-11.19.22:592][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008851s)
+[2018.12.14-11.19.22:622][395]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-11.19.22:631][395]LogInit: FAudioDevice initialized.
+[2018.12.14-11.19.22:631][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.19.22:668][395]LogLoad: Game class is 'GameModeBase'
+[2018.12.14-11.19.22:670][395]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.12.14-14.19.22
+[2018.12.14-11.19.22:670][395]LogWorld: Bringing up level for play took: 0.001671
+[2018.12.14-11.19.22:685][395]LogTemp: Warning: SM_Chair_5 is at X=-192.000 Y=231.000 Z=20.000 position
+[2018.12.14-11.19.22:685][395]LogTemp: Warning: SM_Chair2_8 is at X=-12.000 Y=231.000 Z=20.000 position
+[2018.12.14-11.19.22:686][395]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.519
+[2018.12.14-11.19.22:686][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.19.31:621][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.19.31:621][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-11.19.31:679][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-11.19.31:680][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.19.31:721][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-11.19.31:760][817]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.14-11.19.45:626][364]Cmd: SELECT NONE
+[2018.12.14-11.19.46:825][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.20.01:696][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.20.18:122][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.20.18:135][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.20.18:385][359]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMapFBFA2BBF4F15839180377FA1040894EE.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.20.18:425][359]LogFileHelpers: Saving map 'NewMap' took 0.291
+[2018.12.14-11.20.18:428][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.12.14-11.20.18:634][359]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap_BuiltData3237EB7A4A680E3335299C90C0E549E7.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap_BuiltData.uasset'
+[2018.12.14-11.20.19:906][406]MapCheck: New page: Map Check
+[2018.12.14-11.20.19:959][406]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.14-11.20.19:960][406]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.14-11.20.20:035][406]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Chrome, compiling. 
+[2018.12.14-11.20.20:048][406]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.14-11.20.20:063][406]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.20.20:064][406]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.12.14-11.20.20:082][406]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.20.20:082][406]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.20.20:082][406]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.12.14-11.20.20:102][406]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.12.14-11.20.20:123][406]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.12.14-11.20.20:141][406]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.12.14-11.20.20:160][406]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.12.14-11.20.20:184][406]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.12.14-11.20.21:467][406]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.14-11.20.21:467][406]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.14-11.20.21:467][406]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.14-11.20.21:467][406]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.14-11.20.21:467][406]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.20.21:467][406]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.20.21:467][406]TextureStreamingBuild: Display: Compiling optional shaders took 1.440 seconds.
+[2018.12.14-11.20.21:562][406]LogLevel: Display: Export Material TexCoord Scales took 0.095 seconds.
+[2018.12.14-11.20.21:587][406]TextureStreamingBuild: Display: Build Texture Streaming took 0.024 seconds.
+[2018.12.14-11.20.21:625][406]LightingResults: New page: Lighting Build - Dec 14, 2018, 5:20:21 PM
+[2018.12.14-11.20.21:638][406]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.14-11.20.21:640][406]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.14-11.20.21:640][406]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.14-11.20.21:641][406]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.14-11.20.21:641][406]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16664
+[2018.12.14-11.20.26:226][406]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.14-11.20.26:226][406]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.14-11.20.26:226][406]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.14-11.20.26:226][406]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.14-11.20.26:226][406]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.14-11.20.26:226][406]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.14-11.20.26:344][406]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.14-11.20.26:344][406]MapCheck: New page: NewMap - Dec 14, 2018, 5:20:26 PM
+[2018.12.14-11.20.26:345][406]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.12.14-11.20.26:345][406]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.767ms to complete.
+[2018.12.14-11.20.26:368][406]LogEditorBuildUtils: Build time 0:06
+[2018.12.14-11.20.29:640][418]Job is a success!
+[2018.12.14-11.20.30:039][419]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2018.12.14-11.20.30:040][419]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.14-11.20.30:040][419]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2018.12.14-11.20.30:040][419]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.14-11.20.30:040][419]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2018.12.14-11.20.30:040][419]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2018.12.14-11.20.30:040][419]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2018.12.14-11.20.30:428][419]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.14-11.20.30:428][419]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.14-11.20.30:428][419]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.12.14-11.20.30:428][419]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.12.14-11.20.30:519][419]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2018.12.14-11.20.30:519][419]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X256)
+[2018.12.14-11.20.30:555][419]Lightmass on EPBYMINW1694: 2.75 sec total, 128 ms importing, 24 ms setup, 323 ms photons, 2.25 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 9.00 sec total, 2.80 sec processing.
+[2018.12.14-11.20.30:558][419]LogStaticLightingSystem: Illumination: 8.59 sec (368 ms encoding lightmaps, 87 ms encoding shadowmaps)
+[2018.12.14-11.20.30:558][419]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.14-11.20.30:558][419]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.14-11.20.31:235][419]DumpUnbuiltLightIteractions
+[2018.12.14-11.20.31:235][419]Lights with unbuilt interactions: 0
+[2018.12.14-11.20.31:235][419]
+[2018.12.14-11.20.31:235][419]Primitives with unbuilt interactions: 0
+[2018.12.14-11.20.31:369][420]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.14-11.20.31:369][420]MapCheck: New page: NewMap - Dec 14, 2018, 5:20:31 PM
+[2018.12.14-11.20.31:370][420]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.722ms to complete.
+[2018.12.14-11.21.06:913][550]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.21.06:950][550]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.23.11:426][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.23.12:898][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.23.23:819][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.23.28:462][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.23.50:697][ 63]LogEditorViewport: Clicking Background
+[2018.12.14-11.23.53:088][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.23.53:093][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.23.53:207][204]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMapCEBBC99F4DDA0C31E1B2179E2F95A95D.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.23.53:231][204]LogFileHelpers: Saving map 'NewMap' took 0.138
+[2018.12.14-11.23.53:233][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.12.14-11.23.53:379][204]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap_BuiltData763774E04A63095A8DA74393D0537A63.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap_BuiltData.uasset'
+[2018.12.14-11.23.56:127][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.23.57:756][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.24.08:497][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.14-11.24.09:671][837]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.24.20:248][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.24.22:459][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.24.24:254][295]Cmd: TRANSACTION UNDO
+[2018.12.14-11.24.24:254][295]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.14-11.24.25:204][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.14-11.24.28:299][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.24.31:447][510]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door)
+[2018.12.14-11.24.37:283][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.24.41:711][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.14-11.24.44:496][907]Cmd: TRANSACTION UNDO
+[2018.12.14-11.24.44:496][907]LogEditorTransaction: Undo Move Actors
+[2018.12.14-11.24.45:501][934]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.24.50:671][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.24.56:347][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.14-11.25.00:546][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.14-11.25.08:900][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.25.12:185][753]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.25.12:274][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.25.32:563][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.14-11.25.33:332][326]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door)
+[2018.12.14-11.25.33:424][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.25.39:977][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.25.50:176][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.25.50:899][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.14-11.25.58:588][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.14-11.25.59:637][ 97]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door)
+[2018.12.14-11.25.59:726][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.26.04:675][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.26.06:963][300]LogSlate: Window 'Merge Actors' being destroyed
+[2018.12.14-11.26.07:007][300]LogSlate: Window 'Merge Actors' being destroyed
+[2018.12.14-11.26.08:235][339]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door)
+[2018.12.14-11.26.08:325][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.26.39:272][167]Cmd: TRANSACTION UNDO
+[2018.12.14-11.26.39:272][167]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.14-11.26.41:002][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.26.41:810][240]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.26.41:896][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.26.53:519][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.27.00:971][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.27.45:323][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.27.45:330][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.27.45:455][395]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap7CAFE0C74DD85AB1156EDDB885EC3E2B.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.27.45:479][395]LogFileHelpers: Saving map 'NewMap' took 0.150
+[2018.12.14-11.27.49:093][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.28.04:552][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.28.06:412][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.28.14:377][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.28.21:124][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.28.30:372][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.29.29:885][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.30.00:210][841]LogEditorViewport: Clicking Background
+[2018.12.14-11.30.02:118][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.30.07:351][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.30.16:573][813]Cmd: TRANSACTION UNDO
+[2018.12.14-11.30.16:573][813]LogEditorTransaction: Undo Snap Object to View
+[2018.12.14-11.30.19:788][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.30.45:068][483]Cmd: TRANSACTION UNDO
+[2018.12.14-11.30.45:068][483]LogEditorTransaction: Undo Snap Origin to Grid
+[2018.12.14-11.30.50:667][818]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.12.14-11.30.50:735][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.31.03:495][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.31.05:069][657]Cmd: TRANSACTION UNDO
+[2018.12.14-11.31.05:069][657]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.14-11.31.07:295][785]LogEditorViewport: Clicking Background
+[2018.12.14-11.31.09:114][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.31.49:088][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.32.01:439][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.32.01:445][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.32.01:572][977]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap1EEC3DDF401FB4220731B6BBC11C23D2.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.32.01:597][977]LogFileHelpers: Saving map 'NewMap' took 0.152
+[2018.12.14-11.32.01:985][  0]LogEditorViewport: Clicking Background
+[2018.12.14-11.32.04:166][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.32.05:859][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.32.20:913][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.14-11.32.22:771][772]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door)
+[2018.12.14-11.32.30:515][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.32.47:737][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.32.47:749][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.32.47:945][538]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap435609AD4CA389CBF3FDF4BC01E45C32.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.32.47:982][538]LogFileHelpers: Saving map 'NewMap' took 0.234
+[2018.12.14-11.32.48:805][567]MapCheck: New page: Map Check
+[2018.12.14-11.32.48:858][567]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.14-11.32.48:859][567]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.14-11.32.48:931][567]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Chrome, compiling. 
+[2018.12.14-11.32.48:947][567]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.32.48:947][567]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.14-11.32.48:968][567]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.12.14-11.32.48:988][567]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.32.48:989][567]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.12.14-11.32.49:013][567]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.32.49:013][567]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.12.14-11.32.49:038][567]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.12.14-11.32.49:063][567]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.12.14-11.32.49:087][567]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.12.14-11.32.49:111][567]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.12.14-11.32.50:317][567]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.14-11.32.50:317][567]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.14-11.32.50:317][567]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.14-11.32.50:317][567]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.14-11.32.50:317][567]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.32.50:317][567]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.32.50:317][567]TextureStreamingBuild: Display: Compiling optional shaders took 1.394 seconds.
+[2018.12.14-11.32.50:381][567]LogLevel: Display: Export Material TexCoord Scales took 0.064 seconds.
+[2018.12.14-11.32.50:392][567]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2018.12.14-11.32.50:415][567]LightingResults: New page: Lighting Build - Dec 14, 2018, 5:32:50 PM
+[2018.12.14-11.32.50:424][567]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.14-11.32.50:427][567]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.14-11.32.50:427][567]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.14-11.32.50:428][567]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.14-11.32.50:428][567]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16664
+[2018.12.14-11.32.54:985][567]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.14-11.32.54:985][567]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.14-11.32.54:985][567]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.14-11.32.54:985][567]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.14-11.32.54:985][567]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.14-11.32.54:985][567]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.14-11.32.55:097][567]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.14-11.32.55:097][567]MapCheck: New page: NewMap - Dec 14, 2018, 5:32:55 PM
+[2018.12.14-11.32.55:097][567]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.12.14-11.32.55:098][567]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.825ms to complete.
+[2018.12.14-11.32.55:121][567]LogEditorBuildUtils: Build time 0:06
+[2018.12.14-11.33.01:022][720]Job is a success!
+[2018.12.14-11.33.01:213][722]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2018.12.14-11.33.01:213][722]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.14-11.33.01:213][722]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2018.12.14-11.33.01:213][722]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.14-11.33.01:213][722]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2018.12.14-11.33.01:213][722]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2018.12.14-11.33.01:213][722]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2018.12.14-11.33.01:623][722]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.14-11.33.01:623][722]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.14-11.33.01:623][722]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.12.14-11.33.01:623][722]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.12.14-11.33.01:718][722]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2018.12.14-11.33.01:718][722]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X256)
+[2018.12.14-11.33.01:767][722]LogStaticLightingSystem: Illumination: 11.3 sec (393 ms encoding lightmaps, 90 ms encoding shadowmaps)
+[2018.12.14-11.33.01:767][722]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.14-11.33.01:767][722]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.14-11.33.01:999][722]DumpUnbuiltLightIteractions
+[2018.12.14-11.33.01:999][722]Lights with unbuilt interactions: 0
+[2018.12.14-11.33.02:000][722]
+[2018.12.14-11.33.02:000][722]Primitives with unbuilt interactions: 0
+[2018.12.14-11.33.02:187][723]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.14-11.33.02:187][723]MapCheck: New page: NewMap - Dec 14, 2018, 5:33:02 PM
+[2018.12.14-11.33.02:188][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.723ms to complete.
+[2018.12.14-11.33.46:000][129]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.33.46:042][129]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.33.49:948][265]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-11.33.49:988][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.33.49:989][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-11.33.49:989][265]PIE: New page: PIE session: NewMap (Dec 14, 2018, 5:33:49 PM)
+[2018.12.14-11.33.49:989][265]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.12.14-11.33.50:000][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010451s)
+[2018.12.14-11.33.50:001][265]LogAIModule: Creating AISystem for world NewMap
+[2018.12.14-11.33.50:002][265]LogPlayLevel: PIE: World Init took: (0.001973s)
+[2018.12.14-11.33.50:002][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.013247s)
+[2018.12.14-11.33.50:050][265]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-11.33.50:067][265]LogInit: FAudioDevice initialized.
+[2018.12.14-11.33.50:107][265]LogLoad: Game class is 'GameModeBase'
+[2018.12.14-11.33.50:111][265]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.12.14-14.33.50
+[2018.12.14-11.33.50:112][265]LogWorld: Bringing up level for play took: 0.003427
+[2018.12.14-11.33.50:129][265]LogTemp: Warning: SM_Chair_5 is at X=-192.000 Y=231.000 Z=20.000 position
+[2018.12.14-11.33.50:129][265]LogTemp: Warning: SM_Chair2_8 is at X=-12.000 Y=231.000 Z=20.000 position
+[2018.12.14-11.33.50:130][265]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.927
+[2018.12.14-11.33.50:131][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.34.19:671][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.34.19:672][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-11.34.19:733][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-11.34.19:733][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.12.14-11.34.19:771][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-11.34.19:793][486]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.14-11.34.27:622][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.34.33:905][811]LogActorFactory: Actor Factory created Wall_400x300
+[2018.12.14-11.34.36:158][890]LogActorFactory: Actor Factory created Wall_400x300
+[2018.12.14-11.34.37:765][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.34.37:779][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.34.38:077][937]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap2F20049A4DDBC664A7C769ADA8AC5502.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.34.38:111][937]LogFileHelpers: Saving map 'NewMap' took 0.333
+[2018.12.14-11.34.38:113][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.12.14-11.34.38:302][937]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap_BuiltData93BD60074893220F842EF8868903F416.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap_BuiltData.uasset'
+[2018.12.14-11.34.41:528][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.34.51:459][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.35.11:536][815]LogEditorViewport: Clicking Background
+[2018.12.14-11.35.14:397][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.35.22:460][458]LogEditorViewport: Clicking Background
+[2018.12.14-11.35.28:872][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.35.33:468][113]LogEditorViewport: Clicking Background
+[2018.12.14-11.35.34:042][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2018.12.14-11.35.35:557][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.35.49:579][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.35.49:585][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.14-11.35.49:701][ 63]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/NewMap651B6815445DED5FF848A7AFA5E3DFA5.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap'
+[2018.12.14-11.35.49:724][ 63]LogFileHelpers: Saving map 'NewMap' took 0.140
+[2018.12.14-11.35.51:339][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.35.51:388][162]MapCheck: New page: Map Check
+[2018.12.14-11.35.51:397][162]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.14-11.35.51:397][162]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.14-11.35.51:446][162]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Chrome, compiling. 
+[2018.12.14-11.35.51:456][162]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.35.51:456][162]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.14-11.35.51:470][162]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.12.14-11.35.51:483][162]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.35.51:483][162]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.35.51:483][162]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.12.14-11.35.51:497][162]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.12.14-11.35.51:513][162]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.12.14-11.35.51:528][162]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.12.14-11.35.51:543][162]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.12.14-11.35.51:559][162]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.12.14-11.35.52:718][162]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.14-11.35.52:718][162]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.14-11.35.52:718][162]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.14-11.35.52:718][162]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.14-11.35.52:718][162]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.14-11.35.52:718][162]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.14-11.35.52:718][162]TextureStreamingBuild: Display: Compiling optional shaders took 1.278 seconds.
+[2018.12.14-11.35.52:803][162]LogLevel: Display: Export Material TexCoord Scales took 0.085 seconds.
+[2018.12.14-11.35.52:818][162]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2018.12.14-11.35.52:839][162]LightingResults: New page: Lighting Build - Dec 14, 2018, 5:35:52 PM
+[2018.12.14-11.35.52:858][162]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.14-11.35.52:860][162]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.14-11.35.52:861][162]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.14-11.35.52:862][162]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.14-11.35.52:862][162]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16664
+[2018.12.14-11.35.57:423][162]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.14-11.35.57:424][162]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.14-11.35.57:424][162]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.14-11.35.57:424][162]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.14-11.35.57:424][162]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.14-11.35.57:424][162]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.14-11.35.57:554][162]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.14-11.35.57:554][162]MapCheck: New page: NewMap - Dec 14, 2018, 5:35:57 PM
+[2018.12.14-11.35.57:555][162]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.12.14-11.35.57:555][162]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.778ms to complete.
+[2018.12.14-11.35.57:578][162]LogEditorBuildUtils: Build time 0:06
+[2018.12.14-11.35.57:583][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.36.01:549][363]Job is a success!
+[2018.12.14-11.36.01:633][364]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2018.12.14-11.36.01:633][364]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.14-11.36.01:633][364]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2018.12.14-11.36.01:633][364]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.14-11.36.01:633][364]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2018.12.14-11.36.01:633][364]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2018.12.14-11.36.01:633][364]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2018.12.14-11.36.02:009][364]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.14-11.36.02:009][364]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.14-11.36.02:009][364]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.12.14-11.36.02:009][364]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.12.14-11.36.02:091][364]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2018.12.14-11.36.02:091][364]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X256)
+[2018.12.14-11.36.02:131][364]Lightmass on EPBYMINW1694: 3.37 sec total, 207 ms importing, 32 ms setup, 474 ms photons, 2.64 sec processing, 0 ms extra exporting [13/13 mappings]. Threads: 10.5 sec total, 5.45 sec processing.
+[2018.12.14-11.36.02:137][364]LogStaticLightingSystem: Illumination: 9.27 sec (360 ms encoding lightmaps, 76 ms encoding shadowmaps)
+[2018.12.14-11.36.02:137][364]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.14-11.36.02:137][364]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.14-11.36.02:438][364]DumpUnbuiltLightIteractions
+[2018.12.14-11.36.02:438][364]Lights with unbuilt interactions: 0
+[2018.12.14-11.36.02:438][364]
+[2018.12.14-11.36.02:438][364]Primitives with unbuilt interactions: 0
+[2018.12.14-11.36.02:449][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.36.02:612][365]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.14-11.36.02:612][365]MapCheck: New page: NewMap - Dec 14, 2018, 5:36:02 PM
+[2018.12.14-11.36.02:613][365]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.801ms to complete.
+[2018.12.14-11.36.15:218][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.36.15:282][125]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.36.15:288][125]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-11.36.18:240][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.36.19:619][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.36.21:903][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.36.26:723][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.36.27:835][630]MapCheck: New page: Map Check
+[2018.12.14-11.36.27:845][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.36.27:857][630]LightingResults: New page: Lighting Build - Dec 14, 2018, 5:36:27 PM
+[2018.12.14-11.36.27:884][630]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.14-11.36.27:888][630]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.14-11.36.27:888][630]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.14-11.36.27:889][630]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.14-11.36.27:889][630]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16664
+[2018.12.14-11.36.32:489][630]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.14-11.36.32:489][630]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.14-11.36.32:490][630]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.14-11.36.32:490][630]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.14-11.36.32:490][630]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.14-11.36.32:490][630]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.14-11.36.32:630][630]LogEditorBuildUtils: Build time 0:04
+[2018.12.14-11.36.40:760][897]Job is a success!
+[2018.12.14-11.36.40:901][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.36.41:010][898]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2018.12.14-11.36.41:011][898]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.14-11.36.41:011][898]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2018.12.14-11.36.41:011][898]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.14-11.36.41:011][898]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2018.12.14-11.36.41:011][898]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2018.12.14-11.36.41:011][898]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2018.12.14-11.36.41:570][898]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.14-11.36.41:570][898]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.14-11.36.41:570][898]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.12.14-11.36.41:570][898]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.12.14-11.36.41:674][898]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2018.12.14-11.36.41:674][898]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X256)
+[2018.12.14-11.36.41:722][898]Lightmass on EPBYMINW1694: 7.62 sec total, 352 ms importing, 38 ms setup, 738 ms photons, 6.46 sec processing, 0 ms extra exporting [13/13 mappings]. Threads: 25.8 sec total, 13.4 sec processing.
+[2018.12.14-11.36.41:727][898]LogStaticLightingSystem: Illumination: 13.8 sec (527 ms encoding lightmaps, 98 ms encoding shadowmaps)
+[2018.12.14-11.36.41:727][898]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.14-11.36.41:727][898]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.14-11.36.42:504][898]DumpUnbuiltLightIteractions
+[2018.12.14-11.36.42:504][898]Lights with unbuilt interactions: 0
+[2018.12.14-11.36.42:504][898]
+[2018.12.14-11.36.42:504][898]Primitives with unbuilt interactions: 0
+[2018.12.14-11.36.42:516][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-11.36.42:681][899]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.14-11.36.42:681][899]MapCheck: New page: NewMap - Dec 14, 2018, 5:36:42 PM
+[2018.12.14-11.36.42:682][899]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.098ms to complete.
+[2018.12.14-11.36.52:663][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2018.12.14-11.36.54:470][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.12.14-11.36.55:453][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2018.12.14-11.36.56:084][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.14-11.36.57:589][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.36.59:305][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.37.02:527][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-11.37.04:157][705]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
