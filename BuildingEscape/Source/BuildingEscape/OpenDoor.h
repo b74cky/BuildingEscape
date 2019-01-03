@@ -38,9 +38,6 @@ private:
 	UPROPERTY(EditAnywhere)
 	ATriggerVolume* PressurePlate;
 
-	UPROPERTY(VisibleAnywhere)
-	AActor* ActorThatOpens; // Remember pawn inherits from Actor
-
 	UPROPERTY(EditAnywhere)
 	float DoorCloseDelay = 1.f;
 
@@ -49,4 +46,6 @@ private:
 	AActor* Owner; // The owning door
 
 	FRotator InitialDoorAngle;
+
+	float GetTotalMassOfActorsOnPlate(); // returns total mass in kg
 };

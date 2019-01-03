@@ -1,0 +1,1973 @@
+﻿Log file open, 01/03/19 19:22:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BuildingEscape
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.143414
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.155s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=yauheni.dasko -epicuserid=4028069c601940f586943140cc16a6f7 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.01.03-16.22.12:844][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.03-16.22.12:844][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.03-16.22.12:845][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.03-16.22.12:845][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.03-16.22.12:845][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.03-16.22.12:845][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.03-16.22.12:845][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.03-16.22.12:845][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.01.03-16.22.12:845][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.01.03-16.22.12:848][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.03-16.22.12:848][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.03-16.22.12:849][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.03-16.22.12:849][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.03-16.22.12:849][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.03-16.22.12:859][  0]LogHAL: Display: Platform has ~ 16 GB [17053196288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.03-16.22.12:859][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.03-16.22.12:859][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.03-16.22.12:859][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.03-16.22.12:860][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.03-16.22.12:861][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.03-16.22.12:861][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.03-16.22.12:861][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.01.03-16.22.12:861][  0]LogInit: Computer: EPBYMINW1694
+[2019.01.03-16.22.12:861][  0]LogInit: User: YauheniDasko
+[2019.01.03-16.22.12:861][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.01.03-16.22.12:861][  0]LogInit: High frequency timer resolution =2.835939 MHz
+[2019.01.03-16.22.12:861][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.03-16.22.12:861][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.03-16.22.12:861][  0]LogMemory: Process Physical Memory: 103.00 MB used, 103.00 MB peak
+[2019.01.03-16.22.12:862][  0]LogMemory: Process Virtual Memory: 84.64 MB used, 84.64 MB peak
+[2019.01.03-16.22.12:862][  0]LogMemory: Physical Memory: 8596.91 MB used,  7666.29 MB free, 16263.20 MB total
+[2019.01.03-16.22.12:862][  0]LogMemory: Virtual Memory: 4624.69 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.01.03-16.22.12:883][  0]LogInit: Using OS detected language (en-US).
+[2019.01.03-16.22.12:883][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.03-16.22.12:884][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.03-16.22.13:282][  0]LogStreaming: Display: Took  0.399s to InitEngineTextLocalization.
+[2019.01.03-16.22.13:282][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.03-16.22.13:321][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.03-16.22.13:321][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.03-16.22.13:602][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.03-16.22.13:602][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.03-16.22.13:610][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.01.03-16.22.13:610][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2019.01.03-16.22.13:613][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.03-16.22.13:613][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.03-16.22.13:613][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.03-16.22.13:619][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.03-16.22.13:619][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.03-16.22.13:619][  0]LogWindows: EnumDisplayDevices:
+[2019.01.03-16.22.13:619][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.01.03-16.22.13:619][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:1)
+[2019.01.03-16.22.13:620][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.01.03-16.22.13:620][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.01.03-16.22.13:620][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.01.03-16.22.13:620][  0]LogD3D11RHI:   Driver Version: 21.20.16.4590 (internal:21.20.16.4590, unified:21.20.16.4590)
+[2019.01.03-16.22.13:620][  0]LogD3D11RHI:      Driver Date: 1-18-2017
+[2019.01.03-16.22.13:620][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2019.01.03-16.22.13:643][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.01.03-16.22.13:643][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.03-16.22.13:650][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.01.03-16.22.13:998][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.03-16.22.14:009][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.03-16.22.14:020][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.03-16.22.14:032][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.03-16.22.14:043][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.03-16.22.14:055][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.03-16.22.14:068][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.03-16.22.14:080][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.03-16.22.14:085][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-16.22.14:151][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.03-16.22.14:223][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.03-16.22.14:223][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.03-16.22.14:249][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.03-16.22.14:249][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.03-16.22.14:260][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.03-16.22.14:271][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.03-16.22.14:281][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.03-16.22.14:293][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.03-16.22.14:332][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.03-16.22.14:332][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.03-16.22.14:332][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.03-16.22.14:394][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Intermediate/Shaders/WorkingDirectory/20388/).
+[2019.01.03-16.22.14:396][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yauheni_Dasko/AppData/Local/Temp/UnrealShaderWorkingDir/96C47FD045904F469A51CF9AA28F725E/'.
+[2019.01.03-16.22.14:398][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.03-16.22.14:398][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.03-16.22.14:398][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.03-16.22.14:856][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.03-16.22.14:901][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Yauheni_Dasko/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.03-16.22.14:901][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Yauheni_Dasko/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.03-16.22.14:901][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.03-16.22.14:901][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.03-16.22.14:901][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.03-16.22.14:901][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.03-16.22.14:913][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.03-16.22.14:916][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.01.03-16.22.14:930][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yauheni_Dasko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.03-16.22.14:930][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.03-16.22.14:930][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.03-16.22.14:952][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.03-16.22.14:953][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.03-16.22.14:954][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.03-16.22.15:040][  0]LogAssetRegistry: FAssetRegistry took 0.0313 seconds to start up
+[2019.01.03-16.22.15:331][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.03-16.22.15:397][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.03-16.22.15:400][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.03-16.22.15:400][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.03-16.22.15:400][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.03-16.22.15:400][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.03-16.22.15:487][  0]LogNetVersion: BuildingEscape 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3852057107)
+[2019.01.03-16.22.16:065][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.144810 seconds
+[2019.01.03-16.22.16:072][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.03-16.22.16:072][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.03-16.22.16:072][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.03-16.22.16:937][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.03-16.22.16:953][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.03-16.22.17:688][  0]SourceControl: Source control is disabled
+[2019.01.03-16.22.17:688][  0]SourceControl: Source control is disabled
+[2019.01.03-16.22.17:690][  0]SourceControl: Source control is disabled
+[2019.01.03-16.22.17:690][  0]SourceControl: Source control is disabled
+[2019.01.03-16.22.17:864][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.03-16.22.17:929][  0]LogOcInput: OculusInput pre-init called
+[2019.01.03-16.22.19:331][  0]LogEngine: Initializing Engine...
+[2019.01.03-16.22.19:332][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.03-16.22.19:333][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.03-16.22.19:333][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.03-16.22.19:333][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.03-16.22.19:333][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.03-16.22.19:553][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.03-16.22.19:567][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.03-16.22.19:576][  0]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-16.22.19:598][  0]LogInit: FAudioDevice initialized.
+[2019.01.03-16.22.19:598][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.03-16.22.19:683][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Yauheni_Dasko/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.03-16.22.19:689][  0]LogInit: Texture streaming: Enabled
+[2019.01.03-16.22.19:722][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.03-16.22.19:734][  0]LogInit: Transaction tracking system initialized
+[2019.01.03-16.22.19:758][  0]BlueprintLog: New page: Editor Load
+[2019.01.03-16.22.19:829][  0]LocalizationService: Localization service is disabled
+[2019.01.03-16.22.20:289][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/' took 0.01s
+[2019.01.03-16.22.20:289][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.03-16.22.20:289][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.03-16.22.20:289][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.03-16.22.20:289][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.03-16.22.20:289][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.03-16.22.20:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.03-16.22.20:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.03-16.22.21:656][  0]SourceControl: Source control is disabled
+[2019.01.03-16.22.21:657][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.03-16.22.21:657][  0]LightingResults: New page: Lighting Build
+[2019.01.03-16.22.21:659][  0]MapCheck: New page: Map Check
+[2019.01.03-16.22.21:659][  0]LightingResults: New page: Lighting Build
+[2019.01.03-16.22.21:938][  0]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-16.22.21:944][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.03-16.22.21:996][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.03-16.22.21:996][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.227ms to complete.
+[2019.01.03-16.22.21:996][  0]LogFileHelpers: Loading map 'NewMap' took 0.340
+[2019.01.03-16.22.22:139][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.22.22:145][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.22.22:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.22.22:158][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.22.22:164][  0]LogCollectionManager: Loaded 0 collections in 0.001732 seconds
+[2019.01.03-16.22.22:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Collections/' took 0.01s
+[2019.01.03-16.22.22:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/Developers/YauheniDasko/Collections/' took 0.01s
+[2019.01.03-16.22.22:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/Collections/' took 0.01s
+[2019.01.03-16.22.22:236][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.03-16.22.22:252][  0]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2713 classes and 655 folders.
+[2019.01.03-16.22.22:260][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.03-16.22.22:265][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:269][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:269][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:270][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:270][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:271][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:271][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:272][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:272][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:273][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:273][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:274][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:274][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:276][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:276][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:278][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:278][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:279][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:279][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.03-16.22.22:319][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.03-16.22.22:324][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.03-16.22.22:337][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.03-16.22.22:340][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.03-16.22.22:348][  0]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.03-16.22.22:349][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.01.03-16.22.22:469][  0]LogRenderer: Reallocating scene render targets to support 880x512 Format 10 NumSamples 1 (Frame:1).
+[2019.01.03-16.22.23:219][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.03-16.22.23:219][  0]LogLoad: (Engine Initialization) Total time: 11.93 seconds
+[2019.01.03-16.22.23:219][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.03-16.22.23:237][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.03-16.22.23:294][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.03-16.22.23:322][  1]LogAssetRegistry: Asset discovery search completed in 8.3047 seconds
+[2019.01.03-16.22.23:324][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.03-16.22.23:324][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000233 seconds (updated 0 objects)
+[2019.01.03-16.22.31:848][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-16.22.31:878][292]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.03-16.22.33:784][361]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.03-16.22.33:812][361]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DefaultPawn_BP.DefaultPawn_BP
+[2019.01.03-16.22.34:252][361]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.01.03-16.22.34:968][361]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.03-16.23.17:316][902]LogSlate: Took 0.000665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.03-16.23.34:104][416]BlueprintLog: New page: Compile DefaultPawn_BP
+[2019.01.03-16.23.36:851][489]LogSlate: Window 'DefaultPawn_BP*' being destroyed
+[2019.01.03-16.23.36:891][489]LogSlate: Window 'DefaultPawn_BP*' being destroyed
+[2019.01.03-16.23.39:392][568]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-16.23.39:426][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.23.39:427][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-16.23.39:428][568]PIE: New page: PIE session: NewMap (Jan 3, 2019, 10:23:39 PM)
+[2019.01.03-16.23.39:444][568]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-16.23.39:459][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013910s)
+[2019.01.03-16.23.39:460][568]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-16.23.39:461][568]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2019.01.03-16.23.39:461][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.017423s)
+[2019.01.03-16.23.39:517][568]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-16.23.39:534][568]LogInit: FAudioDevice initialized.
+[2019.01.03-16.23.39:610][568]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-16.23.39:615][568]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-19.23.39
+[2019.01.03-16.23.39:616][568]LogWorld: Bringing up level for play took: 0.003364
+[2019.01.03-16.23.39:641][568]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.01.03-16.23.39:649][568]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.071
+[2019.01.03-16.23.39:649][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.24.15:908][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.24.15:911][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.24.15:984][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-16.24.15:984][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.24.16:039][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.24.16:095][943]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.03-16.24.19:251][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-16.24.19:412][ 39]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DefaultPawn_BP.DefaultPawn_BP
+[2019.01.03-16.24.47:236][817]BlueprintLog: New page: Compile DefaultPawn_BP
+[2019.01.03-16.25.32:216][ 71]LogSlate: Window 'DefaultPawn_BP*' being destroyed
+[2019.01.03-16.25.32:256][ 71]LogSlate: Window 'DefaultPawn_BP*' being destroyed
+[2019.01.03-16.25.34:039][127]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-16.25.34:073][127]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.25.34:075][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-16.25.34:076][127]PIE: New page: PIE session: NewMap (Jan 3, 2019, 10:25:34 PM)
+[2019.01.03-16.25.34:077][127]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-16.25.34:087][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009879s)
+[2019.01.03-16.25.34:088][127]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-16.25.34:089][127]LogPlayLevel: PIE: World Init took: (0.001858s)
+[2019.01.03-16.25.34:089][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.013055s)
+[2019.01.03-16.25.34:151][127]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-16.25.34:166][127]LogInit: FAudioDevice initialized.
+[2019.01.03-16.25.34:217][127]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-16.25.34:224][127]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-19.25.34
+[2019.01.03-16.25.34:226][127]LogWorld: Bringing up level for play took: 0.005985
+[2019.01.03-16.25.34:248][127]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.328
+[2019.01.03-16.25.34:250][127]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.25.51:697][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.25.51:699][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.25.51:766][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-16.25.51:766][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.25.51:816][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.25.51:865][808]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.01.03-16.26.03:191][191]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-16.26.03:248][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.26.03:250][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-16.26.03:250][191]PIE: New page: PIE session: NewMap (Jan 3, 2019, 10:26:03 PM)
+[2019.01.03-16.26.03:251][191]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-16.26.03:262][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010735s)
+[2019.01.03-16.26.03:263][191]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-16.26.03:264][191]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2019.01.03-16.26.03:264][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.013334s)
+[2019.01.03-16.26.03:334][191]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-16.26.03:354][191]LogInit: FAudioDevice initialized.
+[2019.01.03-16.26.03:355][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-16.26.03:390][191]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-16.26.03:394][191]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-19.26.03
+[2019.01.03-16.26.03:395][191]LogWorld: Bringing up level for play took: 0.003099
+[2019.01.03-16.26.03:411][191]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.835
+[2019.01.03-16.26.03:411][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.26.12:296][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.26.12:297][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.26.12:359][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-16.26.12:360][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.26.12:416][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.26.12:441][522]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.01.03-16.26.36:983][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-16.26.37:176][850]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DefaultPawn_BP.DefaultPawn_BP
+[2019.01.03-16.27.25:297][703]BlueprintLog: New page: Compile DefaultPawn_BP
+[2019.01.03-16.27.28:283][793]LogSlate: Window 'DefaultPawn_BP*' being destroyed
+[2019.01.03-16.27.28:319][793]LogSlate: Window 'DefaultPawn_BP*' being destroyed
+[2019.01.03-16.27.29:839][846]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-16.27.29:860][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.27.29:861][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-16.27.29:861][846]PIE: New page: PIE session: NewMap (Jan 3, 2019, 10:27:29 PM)
+[2019.01.03-16.27.29:862][846]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-16.27.29:870][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008094s)
+[2019.01.03-16.27.29:871][846]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-16.27.29:872][846]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2019.01.03-16.27.29:872][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010673s)
+[2019.01.03-16.27.29:912][846]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-16.27.29:921][846]LogInit: FAudioDevice initialized.
+[2019.01.03-16.27.29:955][846]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-16.27.29:959][846]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-19.27.29
+[2019.01.03-16.27.29:961][846]LogWorld: Bringing up level for play took: 0.004894
+[2019.01.03-16.27.29:979][846]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.596
+[2019.01.03-16.27.29:981][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.27.48:033][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.27.48:034][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.27.48:099][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-16.27.48:100][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.27.48:158][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.27.48:204][551]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.03-16.33.45:025][709]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.086
+[2019.01.03-16.33.45:032][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DefaultPawn_BP] ([1] browsable assets)...
+[2019.01.03-16.33.45:096][709]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DefaultPawn_BP.DefaultPawn_BP]
+[2019.01.03-16.33.45:096][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/DefaultPawn_BP]
+[2019.01.03-16.33.45:161][709]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/DefaultPawn_BP_Auto1E8E711814090A2E09CBE939720678EA2.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/Autosaves/Game/DefaultPawn_BP_Auto1.uasset'
+[2019.01.03-16.33.45:169][709]LogFileHelpers: Auto-saving content packages took 0.142
+[2019.01.03-16.37.11:787][325]LogHotReload: New module detected: UE4Editor-BuildingEscape-2139.dll
+[2019.01.03-16.37.12:504][328]LogHotReload: Starting Hot-Reload from IDE
+[2019.01.03-16.37.12:570][328]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2019.01.03-16.37.12:585][328]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2019.01.03-16.37.12:718][328]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2019.01.03-16.37.12:722][328]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.01.03-16.37.13:059][328]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2714 classes and 657 folders.
+[2019.01.03-16.37.13:062][328]Display: HotReload took  0.6s.
+[2019.01.03-16.37.19:370][402]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-16.37.19:400][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.37.19:401][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-16.37.19:401][402]PIE: New page: PIE session: NewMap (Jan 3, 2019, 10:37:19 PM)
+[2019.01.03-16.37.19:401][402]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-16.37.19:410][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009263s)
+[2019.01.03-16.37.19:411][402]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-16.37.19:412][402]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2019.01.03-16.37.19:412][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.011200s)
+[2019.01.03-16.37.19:492][402]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-16.37.19:502][402]LogInit: FAudioDevice initialized.
+[2019.01.03-16.37.19:503][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-16.37.19:540][402]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-16.37.19:547][402]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-19.37.19
+[2019.01.03-16.37.19:549][402]LogWorld: Bringing up level for play took: 0.006045
+[2019.01.03-16.37.19:571][402]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.998
+[2019.01.03-16.37.19:573][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.37.31:969][902]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.37.31:971][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.37.32:037][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-16.37.32:038][902]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-16.37.32:108][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-16.37.32:176][903]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.03-16.43.36:543][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-16.44.06:088][383]Cmd: SELECT NONE
+[2019.01.03-16.44.06:960][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.03-16.44.07:335][417]Cmd: SELECT NONE
+[2019.01.03-16.44.08:379][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-16.44.25:477][ 19]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.03-16.44.30:042][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-16.44.32:528][224]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.03-16.44.33:982][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-17.12.36:219][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.21.42:275][828]LogHotReload: New module detected: UE4Editor-BuildingEscape-6365.dll
+[2019.01.03-17.21.42:971][831]LogHotReload: Starting Hot-Reload from IDE
+[2019.01.03-17.21.43:078][831]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0008 seconds. Added 4 classes and 2 folders.
+[2019.01.03-17.21.43:085][831]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.01.03-17.21.43:494][831]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2714 classes and 657 folders.
+[2019.01.03-17.21.43:496][831]Display: HotReload took  0.5s.
+[2019.01.03-17.22.01:999][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.03-17.22.02:685][933]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.22.02:716][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.22.02:717][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.22.02:717][933]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:22:02 PM)
+[2019.01.03-17.22.02:717][933]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.22.02:728][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010571s)
+[2019.01.03-17.22.02:730][933]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.22.02:731][933]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2019.01.03-17.22.02:731][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.013173s)
+[2019.01.03-17.22.02:830][933]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.22.02:840][933]LogInit: FAudioDevice initialized.
+[2019.01.03-17.22.02:840][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.22.02:875][933]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.22.02:880][933]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.22.02
+[2019.01.03-17.22.02:882][933]LogWorld: Bringing up level for play took: 0.004741
+[2019.01.03-17.22.02:901][933]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.335
+[2019.01.03-17.22.02:902][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.22.05:428][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.22.05:429][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.22.05:484][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.22.05:485][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.22.05:513][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.22.05:567][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.03-17.22.06:312][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-17.22.07:806][115]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.22.07:826][115]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.22.07:827][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.22.07:828][115]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:22:07 PM)
+[2019.01.03-17.22.07:828][115]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.22.07:841][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011707s)
+[2019.01.03-17.22.07:842][115]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.22.07:842][115]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2019.01.03-17.22.07:843][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.013944s)
+[2019.01.03-17.22.07:883][115]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.22.07:893][115]LogInit: FAudioDevice initialized.
+[2019.01.03-17.22.07:927][115]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.22.07:928][115]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.22.07
+[2019.01.03-17.22.07:929][115]LogWorld: Bringing up level for play took: 0.001672
+[2019.01.03-17.22.07:942][115]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.625
+[2019.01.03-17.22.07:942][115]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.22.18:077][531]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:093][531]LogSlate: Took 0.015615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.03-17.22.18:112][531]LogSlate: Took 0.016770 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.01.03-17.22.18:120][532]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:136][533]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:154][534]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:178][535]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:205][536]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:228][537]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:252][538]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:277][539]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:302][540]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:327][541]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:353][542]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:378][543]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:403][544]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:427][545]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:453][546]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:477][547]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:503][548]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:528][549]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:553][550]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:578][551]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:603][552]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:629][553]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:653][554]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:680][555]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:704][556]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:730][557]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:755][558]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:780][559]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:805][560]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:831][561]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:855][562]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:880][563]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:906][564]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:931][565]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:954][566]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.18:981][567]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:005][568]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:031][569]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:055][570]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:080][571]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:106][572]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:132][573]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:158][574]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:182][575]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:206][576]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:231][577]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:257][578]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:281][579]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:307][580]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:332][581]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:358][582]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:382][583]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:407][584]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:433][585]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:456][586]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:482][587]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:507][588]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:532][589]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:557][590]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:583][591]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:607][592]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:632][593]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:659][594]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:684][595]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:708][596]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.19:734][597]LogTemp: Warning: ?먊ʉ
+[2019.01.03-17.22.28:240][923]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.22.28:242][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.22.28:317][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.22.28:318][923]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.22.28:374][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.22.28:428][924]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.03-17.22.30:589][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-17.22.52:576][254]Candidate modules for hot reload:
+[2019.01.03-17.22.52:576][254]  BuildingEscape
+[2019.01.03-17.22.52:576][254]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,4428 Win64 Development -TargetType=Editor -Project="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/BuildingEscape.uproject" -canskiplink "C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/BuildingEscape.uproject" ]
+[2019.01.03-17.22.52:590][254]Warning: Starting HotReload took  0.1s.
+[2019.01.03-17.23.20:565][187]CompilerResultsLog: New page: Compilation - Jan 3, 2019, 11:23:20 PM
+[2019.01.03-17.23.20:566][187]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Yauheni_Dasko\source\repos\Building_Escape).
+[2019.01.03-17.23.20:567][187]CompilerResultsLog: Creating makefile for hot reloading BuildingEscapeEditor (source directory changed)
+[2019.01.03-17.23.20:567][187]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.03-17.23.20:568][187]CompilerResultsLog: Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.01.03-17.23.20:569][187]CompilerResultsLog: Building 3 actions with 4 processes...
+[2019.01.03-17.23.20:570][187]CompilerResultsLog:   [1/3] OpenDoor.cpp
+[2019.01.03-17.23.20:571][187]CompilerResultsLog:   [2/3] UE4Editor-BuildingEscape-4428.lib
+[2019.01.03-17.23.20:572][187]CompilerResultsLog:      Creating library C:\Users\Yauheni_Dasko\source\repos\Building_Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4428.lib and object C:\Users\Yauheni_Dasko\source\repos\Building_Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4428.exp
+[2019.01.03-17.23.20:573][187]CompilerResultsLog:   [3/3] UE4Editor-BuildingEscape-4428.dll
+[2019.01.03-17.23.20:574][187]CompilerResultsLog:      Creating library C:\Users\Yauheni_Dasko\source\repos\Building_Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4428.suppressed.lib and object C:\Users\Yauheni_Dasko\source\repos\Building_Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4428.suppressed.exp
+[2019.01.03-17.23.20:576][187]CompilerResultsLog: Total build time: 27.21 seconds (Parallel executor: 7.79 seconds)
+[2019.01.03-17.23.20:576][187]LogMainFrame: MainFrame: Module compiling took 28.003 seconds
+[2019.01.03-17.23.20:680][187]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0007 seconds. Added 4 classes and 2 folders.
+[2019.01.03-17.23.20:685][187]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.01.03-17.23.21:179][187]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2714 classes and 657 folders.
+[2019.01.03-17.23.21:180][187]Display: HotReload took 28.6s.
+[2019.01.03-17.23.23:082][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.03-17.23.23:692][271]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.23.23:736][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.23.23:737][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.23.23:738][271]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:23:23 PM)
+[2019.01.03-17.23.23:738][271]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.23.23:753][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013956s)
+[2019.01.03-17.23.23:754][271]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.23.23:755][271]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2019.01.03-17.23.23:755][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.016348s)
+[2019.01.03-17.23.23:875][271]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.23.23:896][271]LogInit: FAudioDevice initialized.
+[2019.01.03-17.23.23:896][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.23.23:937][271]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.23.23:940][271]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.23.23
+[2019.01.03-17.23.23:941][271]LogWorld: Bringing up level for play took: 0.002791
+[2019.01.03-17.23.23:959][271]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.607
+[2019.01.03-17.23.23:960][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.23.29:696][482]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:724][483]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:751][484]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:779][485]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:807][486]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:835][487]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:862][488]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:888][489]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:915][490]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:943][491]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:968][492]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.29:995][493]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:023][494]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:048][495]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:075][496]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:103][497]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:130][498]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:157][499]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:183][500]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:210][501]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:235][502]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:261][503]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:287][504]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:314][505]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:342][506]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.30:367][507]LogTemp: Warning: 믐翺
+[2019.01.03-17.23.33:684][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.23.33:686][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.23.33:749][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.23.33:750][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.23.33:807][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.23.33:856][634]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.03-17.24.15:830][786]LogHotReload: New module detected: UE4Editor-BuildingEscape-2277.dll
+[2019.01.03-17.24.16:531][789]LogHotReload: Starting Hot-Reload from IDE
+[2019.01.03-17.24.16:597][789]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.01.03-17.24.16:604][789]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.01.03-17.24.16:926][789]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2714 classes and 657 folders.
+[2019.01.03-17.24.16:928][789]Display: HotReload took  0.4s.
+[2019.01.03-17.24.18:721][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.24.19:392][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.03-17.24.19:976][830]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.24.20:012][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.24.20:012][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.24.20:013][830]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:24:20 PM)
+[2019.01.03-17.24.20:013][830]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.24.20:020][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006346s)
+[2019.01.03-17.24.20:022][830]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.24.20:023][830]LogPlayLevel: PIE: World Init took: (0.001888s)
+[2019.01.03-17.24.20:023][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.009500s)
+[2019.01.03-17.24.20:101][830]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.24.20:111][830]LogInit: FAudioDevice initialized.
+[2019.01.03-17.24.20:112][830]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.24.20:146][830]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.24.20:148][830]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.24.20
+[2019.01.03-17.24.20:148][830]LogWorld: Bringing up level for play took: 0.001123
+[2019.01.03-17.24.20:161][830]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.405
+[2019.01.03-17.24.20:162][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.24.38:787][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.24.38:790][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.24.38:855][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.24.38:857][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.24.38:917][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.24.38:974][539]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.03-17.24.40:422][591]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.24.40:456][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.24.40:458][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.24.40:458][591]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:24:40 PM)
+[2019.01.03-17.24.40:459][591]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.24.40:474][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014249s)
+[2019.01.03-17.24.40:475][591]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.24.40:476][591]LogPlayLevel: PIE: World Init took: (0.002109s)
+[2019.01.03-17.24.40:477][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.017857s)
+[2019.01.03-17.24.40:542][591]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.24.40:560][591]LogInit: FAudioDevice initialized.
+[2019.01.03-17.24.40:561][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.24.40:604][591]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.24.40:608][591]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.24.40
+[2019.01.03-17.24.40:609][591]LogWorld: Bringing up level for play took: 0.002925
+[2019.01.03-17.24.40:624][591]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.057
+[2019.01.03-17.24.40:624][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.24.45:698][781]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:724][782]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:752][783]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:777][784]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:804][785]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:833][786]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:858][787]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:885][788]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:910][789]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:936][790]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:962][791]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.45:988][792]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:014][793]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:040][794]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:065][795]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:091][796]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:117][797]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:141][798]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:167][799]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:192][800]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:217][801]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:241][802]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:268][803]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:294][804]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.46:321][805]LogTemp: Warning: 믐翺
+[2019.01.03-17.24.47:802][861]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.24.47:803][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.24.47:869][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.24.47:872][861]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.24.47:928][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.24.47:978][862]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.03-17.25.08:982][944]LogHotReload: New module detected: UE4Editor-BuildingEscape-7337.dll
+[2019.01.03-17.25.09:677][947]LogHotReload: Starting Hot-Reload from IDE
+[2019.01.03-17.25.09:754][947]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.01.03-17.25.09:761][947]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.01.03-17.25.10:123][947]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2714 classes and 657 folders.
+[2019.01.03-17.25.10:126][947]Display: HotReload took  0.4s.
+[2019.01.03-17.25.13:800][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.25.14:796][997]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.25.14:826][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.25.14:827][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.25.14:827][997]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:25:14 PM)
+[2019.01.03-17.25.14:827][997]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.25.14:836][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008281s)
+[2019.01.03-17.25.14:837][997]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.25.14:837][997]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2019.01.03-17.25.14:837][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010191s)
+[2019.01.03-17.25.14:907][997]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.25.14:919][997]LogInit: FAudioDevice initialized.
+[2019.01.03-17.25.14:959][997]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.25.14:964][997]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.25.14
+[2019.01.03-17.25.14:966][997]LogWorld: Bringing up level for play took: 0.004031
+[2019.01.03-17.25.14:983][997]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.417
+[2019.01.03-17.25.14:984][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.25.20:122][204]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.20:146][205]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.20:173][206]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.20:196][207]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.20:223][208]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.20:247][209]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.20:272][210]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.20:297][211]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.20:322][212]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.20:347][213]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.20:373][214]LogTemp: Warning: 믐翺
+[2019.01.03-17.25.22:131][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.25.22:132][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.25.22:190][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.25.22:190][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.25.22:216][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.25.22:284][287]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.03-17.25.45:704][369]LogHotReload: New module detected: UE4Editor-BuildingEscape-4395.dll
+[2019.01.03-17.25.46:408][372]LogHotReload: Starting Hot-Reload from IDE
+[2019.01.03-17.25.46:454][372]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2019.01.03-17.25.46:457][372]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.01.03-17.25.46:779][372]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2714 classes and 657 folders.
+[2019.01.03-17.25.46:781][372]Display: HotReload took  0.4s.
+[2019.01.03-17.25.48:482][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.25.49:573][409]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.25.49:606][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.25.49:607][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.25.49:607][409]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:25:49 PM)
+[2019.01.03-17.25.49:608][409]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.25.49:617][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008998s)
+[2019.01.03-17.25.49:619][409]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.25.49:620][409]LogPlayLevel: PIE: World Init took: (0.002395s)
+[2019.01.03-17.25.49:621][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012857s)
+[2019.01.03-17.25.49:692][409]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.25.49:704][409]LogInit: FAudioDevice initialized.
+[2019.01.03-17.25.49:740][409]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.25.49:742][409]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.25.49
+[2019.01.03-17.25.49:742][409]LogWorld: Bringing up level for play took: 0.001214
+[2019.01.03-17.25.49:755][409]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.811
+[2019.01.03-17.25.49:756][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.25.55:327][639]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:352][640]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:377][641]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:402][642]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:427][643]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:452][644]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:478][645]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:502][646]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:527][647]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:551][648]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:576][649]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:601][650]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:625][651]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:649][652]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:674][653]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:698][654]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:723][655]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:748][656]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:771][657]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:796][658]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:821][659]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:845][660]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:869][661]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:893][662]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:918][663]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:942][664]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:967][665]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.55:991][666]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.56:017][667]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.56:041][668]LogTemp: Warning: 뤀ʉ
+[2019.01.03-17.25.56:515][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.25.56:516][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.25.56:588][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.25.56:588][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.25.56:615][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.25.56:650][688]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.03-17.27.54:217][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.27.56:473][136]Candidate modules for hot reload:
+[2019.01.03-17.27.56:474][136]  BuildingEscape
+[2019.01.03-17.27.56:474][136]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,73 Win64 Development -TargetType=Editor -Project="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/BuildingEscape.uproject" -canskiplink "C:/Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/BuildingEscape.uproject" ]
+[2019.01.03-17.27.56:490][136]Warning: Starting HotReload took  0.1s.
+[2019.01.03-17.28.22:737][ 50]CompilerResultsLog: New page: Compilation - Jan 3, 2019, 11:28:22 PM
+[2019.01.03-17.28.22:738][ 50]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Yauheni_Dasko\source\repos\Building_Escape).
+[2019.01.03-17.28.22:738][ 50]CompilerResultsLog: Creating makefile for hot reloading BuildingEscapeEditor (source directory changed)
+[2019.01.03-17.28.22:739][ 50]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.03-17.28.22:739][ 50]CompilerResultsLog: Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.01.03-17.28.22:741][ 50]CompilerResultsLog: Building 3 actions with 4 processes...
+[2019.01.03-17.28.22:741][ 50]CompilerResultsLog:   [1/3] OpenDoor.cpp
+[2019.01.03-17.28.22:742][ 50]CompilerResultsLog:    C:\Users\Yauheni_Dasko\source\repos\Building_Escape\BuildingEscape\Source\BuildingEscape\OpenDoor.cpp(66) : error C2276: '*': illegal operation on bound member function expression
+[2019.01.03-17.28.22:743][ 50]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\Yauheni_Dasko\source\repos\Building_Escape\BuildingEscape\Binaries\Win64\UE4Editor-BuildingEscape-73.dll
+[2019.01.03-17.28.22:744][ 50]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.01.03-17.28.22:744][ 50]CompilerResultsLog: Total build time: 25.35 seconds (Parallel executor: 0.00 seconds)
+[2019.01.03-17.28.22:745][ 50]LogMainFrame: MainFrame: Module compiling took 26.275 seconds
+[2019.01.03-17.28.22:745][ 50]Warning: HotReload failed, recompile failed
+[2019.01.03-17.28.36:499][488]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-17.28.36:561][488]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-17.29.11:798][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.03-17.29.12:421][675]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.29.12:443][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.29.12:444][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.29.12:444][675]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:29:12 PM)
+[2019.01.03-17.29.12:444][675]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.29.12:457][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012434s)
+[2019.01.03-17.29.12:458][675]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.29.12:458][675]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2019.01.03-17.29.12:459][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.014005s)
+[2019.01.03-17.29.12:502][675]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.29.12:516][675]LogInit: FAudioDevice initialized.
+[2019.01.03-17.29.12:516][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.29.12:545][675]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.29.12:546][675]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.29.12
+[2019.01.03-17.29.12:547][675]LogWorld: Bringing up level for play took: 0.001925
+[2019.01.03-17.29.12:564][675]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.002
+[2019.01.03-17.29.12:565][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.29.18:465][918]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:489][919]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:515][920]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:539][921]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:565][922]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:590][923]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:614][924]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:639][925]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:664][926]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:690][927]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:714][928]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:739][929]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:764][930]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:788][931]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:813][932]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:838][933]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:862][934]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:886][935]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:911][936]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:935][937]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:960][938]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.18:984][939]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:009][940]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:033][941]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:058][942]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:082][943]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:106][944]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:132][945]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:156][946]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:182][947]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:208][948]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:234][949]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:260][950]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:285][951]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:313][952]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:339][953]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:367][954]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:394][955]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:422][956]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:448][957]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:476][958]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:502][959]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:530][960]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:557][961]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:585][962]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:614][963]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:640][964]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:667][965]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:695][966]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:722][967]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:750][968]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:779][969]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:805][970]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:832][971]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:860][972]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:887][973]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:915][974]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.19:942][975]LogTemp: Warning: 섀讂ʉ
+[2019.01.03-17.29.21:244][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.29.21:245][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.29.21:313][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.29.21:315][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.29.21:380][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.29.21:411][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.03-17.32.19:431][573]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.32.21:538][644]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.32.21:565][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.32.21:566][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.32.21:567][644]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:32:21 PM)
+[2019.01.03-17.32.21:567][644]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.32.21:577][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009646s)
+[2019.01.03-17.32.21:578][644]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.32.21:579][644]LogPlayLevel: PIE: World Init took: (0.001683s)
+[2019.01.03-17.32.21:579][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012324s)
+[2019.01.03-17.32.21:621][644]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.32.21:635][644]LogInit: FAudioDevice initialized.
+[2019.01.03-17.32.21:669][644]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.32.21:670][644]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.32.21
+[2019.01.03-17.32.21:671][644]LogWorld: Bringing up level for play took: 0.001714
+[2019.01.03-17.32.21:685][644]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.88
+[2019.01.03-17.32.21:686][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.32.26:519][839]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:544][840]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:570][841]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:595][842]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:619][843]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:644][844]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:670][845]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:694][846]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:719][847]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:743][848]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:768][849]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:793][850]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:817][851]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:842][852]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:868][853]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:892][854]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:917][855]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:941][856]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:966][857]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.26:990][858]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:015][859]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:039][860]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:063][861]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:088][862]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:113][863]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:137][864]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:162][865]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:186][866]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:211][867]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:237][868]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:261][869]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:286][870]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:311][871]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:337][872]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:361][873]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:386][874]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:411][875]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:437][876]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:461][877]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:487][878]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:511][879]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:536][880]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:561][881]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:586][882]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:611][883]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:637][884]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:662][885]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:687][886]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:712][887]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:736][888]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:761][889]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:785][890]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.27:811][891]LogTemp: Warning: 먊ʉ
+[2019.01.03-17.32.31:090][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.32.31:091][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.32.31:153][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.32.31:153][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.32.31:185][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.32.31:220][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.03-17.33.57:452][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.33.58:301][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.03-17.33.58:815][473]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.33.58:842][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.33.58:843][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.33.58:844][473]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:33:58 PM)
+[2019.01.03-17.33.58:844][473]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.33.58:854][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010478s)
+[2019.01.03-17.33.58:855][473]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.33.58:856][473]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2019.01.03-17.33.58:856][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012411s)
+[2019.01.03-17.33.58:901][473]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.33.58:911][473]LogInit: FAudioDevice initialized.
+[2019.01.03-17.33.58:911][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.33.58:940][473]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.33.58:942][473]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.33.58
+[2019.01.03-17.33.58:942][473]LogWorld: Bringing up level for play took: 0.001197
+[2019.01.03-17.33.58:958][473]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.394
+[2019.01.03-17.33.58:959][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.34.02:867][633]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.02:890][634]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.02:915][635]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.02:941][636]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.02:965][637]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.02:990][638]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:015][639]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:041][640]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:065][641]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:089][642]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:114][643]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:138][644]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:162][645]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:187][646]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:211][647]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:236][648]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:261][649]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:285][650]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:310][651]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:334][652]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:358][653]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:382][654]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:406][655]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:431][656]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:455][657]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:480][658]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:505][659]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:530][660]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:555][661]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:580][662]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:605][663]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:629][664]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:655][665]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:680][666]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:704][667]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:730][668]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:755][669]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:780][670]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:805][671]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:830][672]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:855][673]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:881][674]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:905][675]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:930][676]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:955][677]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.03:981][678]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:004][679]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:030][680]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:054][681]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:079][682]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:104][683]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:129][684]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:154][685]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:178][686]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:204][687]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:230][688]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:254][689]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:280][690]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:304][691]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:329][692]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:354][693]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:379][694]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:404][695]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:428][696]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:452][697]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:477][698]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:501][699]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:526][700]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:551][701]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:575][702]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:600][703]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:624][704]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:648][705]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:672][706]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:697][707]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:722][708]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:746][709]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:770][710]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:795][711]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:819][712]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:843][713]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:869][714]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:893][715]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:918][716]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:942][717]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:968][718]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.04:993][719]LogTemp: Warning: 케륦ʉ
+[2019.01.03-17.34.06:171][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.34.06:172][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.34.06:231][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.34.06:232][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.34.06:260][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.34.06:296][768]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.01.03-17.34.30:751][863]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.030
+[2019.01.03-17.34.59:594][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.35.00:769][988]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.35.00:796][988]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.35.00:797][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.35.00:797][988]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:35:00 PM)
+[2019.01.03-17.35.00:798][988]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.35.00:808][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009668s)
+[2019.01.03-17.35.00:809][988]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.35.00:810][988]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2019.01.03-17.35.00:810][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.011755s)
+[2019.01.03-17.35.00:849][988]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.35.00:859][988]LogInit: FAudioDevice initialized.
+[2019.01.03-17.35.00:896][988]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.35.00:898][988]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.35.00
+[2019.01.03-17.35.00:898][988]LogWorld: Bringing up level for play took: 0.001887
+[2019.01.03-17.35.00:912][988]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.348
+[2019.01.03-17.35.00:913][988]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.35.05:775][188]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.05:800][189]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.05:825][190]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.05:851][191]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.05:875][192]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.05:900][193]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.05:924][194]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.05:948][195]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.05:971][196]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.05:996][197]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:021][198]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:044][199]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:068][200]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:093][201]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:116][202]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:141][203]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:165][204]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:189][205]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:213][206]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:238][207]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:262][208]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:285][209]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:309][210]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:333][211]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:358][212]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:381][213]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:406][214]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:430][215]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:454][216]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:478][217]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:502][218]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:527][219]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:551][220]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:575][221]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:600][222]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:626][223]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:651][224]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:676][225]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:701][226]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:726][227]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:752][228]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:778][229]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:803][230]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:828][231]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:852][232]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:878][233]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:901][234]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:928][235]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:953][236]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.06:978][237]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.07:002][238]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.07:026][239]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.07:051][240]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.07:076][241]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.07:100][242]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.07:125][243]LogTemp: Warning: 섀ꍝʉ
+[2019.01.03-17.35.08:361][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.35.08:362][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.35.08:421][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.35.08:421][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.35.08:447][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.35.08:484][294]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.01.03-17.35.29:964][377]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.35.30:814][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.03-17.35.31:285][420]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.35.31:309][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.35.31:309][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.35.31:310][420]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:35:31 PM)
+[2019.01.03-17.35.31:310][420]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.35.31:322][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011824s)
+[2019.01.03-17.35.31:323][420]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.35.31:324][420]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2019.01.03-17.35.31:324][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.013686s)
+[2019.01.03-17.35.31:369][420]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.35.31:379][420]LogInit: FAudioDevice initialized.
+[2019.01.03-17.35.31:379][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.35.31:412][420]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.35.31:415][420]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.35.31
+[2019.01.03-17.35.31:415][420]LogWorld: Bringing up level for play took: 0.001926
+[2019.01.03-17.35.31:428][420]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.865
+[2019.01.03-17.35.31:429][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.35.36:514][631]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:539][632]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:565][633]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:590][634]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:615][635]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:640][636]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:665][637]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:690][638]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:715][639]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:740][640]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:765][641]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:789][642]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:814][643]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:839][644]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:863][645]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:888][646]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:912][647]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:936][648]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:961][649]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.36:986][650]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:010][651]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:034][652]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:059][653]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:083][654]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:108][655]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:134][656]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:159][657]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:184][658]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:209][659]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:234][660]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:259][661]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:283][662]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:309][663]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:334][664]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:359][665]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:384][666]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:409][667]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:434][668]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:461][669]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:485][670]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.37:511][671]LogTemp: Warning: 礀앜ʉ
+[2019.01.03-17.35.38:112][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.35.38:113][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.35.38:173][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.35.38:173][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.35.38:199][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.35.38:234][696]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.01.03-17.36.08:917][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.36.58:048][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.03-17.36.58:595][  6]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-17.36.58:623][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.36.58:624][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-17.36.58:624][  6]PIE: New page: PIE session: NewMap (Jan 3, 2019, 11:36:58 PM)
+[2019.01.03-17.36.58:625][  6]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-17.36.58:633][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008330s)
+[2019.01.03-17.36.58:634][  6]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-17.36.58:635][  6]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2019.01.03-17.36.58:635][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010473s)
+[2019.01.03-17.36.58:679][  6]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-17.36.58:690][  6]LogInit: FAudioDevice initialized.
+[2019.01.03-17.36.58:690][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.36.58:731][  6]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-17.36.58:735][  6]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-20.36.58
+[2019.01.03-17.36.58:737][  6]LogWorld: Bringing up level for play took: 0.002769
+[2019.01.03-17.36.58:751][  6]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.188
+[2019.01.03-17.36.58:751][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.37.03:996][219]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:020][220]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:046][221]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:071][222]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:096][223]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:121][224]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:147][225]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:172][226]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:196][227]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:222][228]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:246][229]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:271][230]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:295][231]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:320][232]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:344][233]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:369][234]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:392][235]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:417][236]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:441][237]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:466][238]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:490][239]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:514][240]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:538][241]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:562][242]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:587][243]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:611][244]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:635][245]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:660][246]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:683][247]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:708][248]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:733][249]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:756][250]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:780][251]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:806][252]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:831][253]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:856][254]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:881][255]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.04:907][256]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:055][303]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:080][304]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:104][305]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:130][306]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:155][307]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:180][308]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:206][309]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:230][310]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:255][311]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:279][312]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:304][313]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:329][314]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:352][315]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:376][316]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:399][317]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:425][318]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:449][319]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:474][320]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:500][321]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:523][322]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:548][323]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:572][324]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:597][325]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:623][326]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:648][327]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.06:673][328]LogTemp: Warning: 혀촫ʉ
+[2019.01.03-17.37.10:635][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.37.10:636][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.37.10:691][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-17.37.10:691][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-17.37.10:715][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-17.37.10:748][495]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.01.03-17.47.18:966][426]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-17.49.58:226][984]LogSlate: Window 'Save Content' being destroyed
+[2019.01.03-17.49.58:255][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultPawn_BP" FILE="../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/DefaultPawn_BP.uasset" SILENT=true
+[2019.01.03-17.49.58:290][984]LogSavePackage: Moving '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Saved/DefaultPawn_BPF8FFCB624C2A37E11FE09A92EC19DB3A.tmp' to '../../../../../../Users/Yauheni_Dasko/source/repos/Building_Escape/BuildingEscape/Content/DefaultPawn_BP.uasset'
+[2019.01.03-17.49.58:354][984]LogSlate: Window 'BuildingEscape - Unreal Editor' being destroyed
+[2019.01.03-17.49.58:567][985]Cmd: QUIT_EDITOR
+[2019.01.03-17.49.58:668][985]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.03-17.49.58:678][985]LogExit: Preparing to exit.
+[2019.01.03-17.49.58:994][985]LogExit: Editor shut down
+[2019.01.03-17.49.58:994][985]LogExit: Transaction tracking system shut down
+[2019.01.03-17.49.59:272][985]LogExit: Object subsystem successfully closed.
+[2019.01.03-17.49.59:294][985]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.03-17.49.59:300][985]LogD3D11RHI: Shutdown
+[2019.01.03-17.49.59:300][985]LogD3D11RHI: CleanupD3DDevice
+[2019.01.03-17.49.59:326][985]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2019.01.03-17.49.59:326][985]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.03-17.49.59:352][985]LogModuleManager: Shutting down and abandoning module BuildingEscape (658)
+[2019.01.03-17.49.59:352][985]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (652)
+[2019.01.03-17.49.59:352][985]LogModuleManager: Shutting down and abandoning module Voice (650)
+[2019.01.03-17.49.59:352][985]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2019.01.03-17.49.59:352][985]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2019.01.03-17.49.59:352][985]LogModuleManager: Shutting down and abandoning module SceneOutliner (644)
+[2019.01.03-17.49.59:352][985]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module StatsViewer (634)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module FoliageEdit (632)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module LandscapeEditor (630)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module MeshPaintMode (628)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (626)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module ActorPickerMode (624)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module GeometryMode (622)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module TextureAlignMode (620)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module BspMode (618)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (616)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (614)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module AutomationWorker (612)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (610)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (608)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (606)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.01.03-17.49.59:355][985]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (562)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (560)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module CharacterAI (558)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module SmartSnapping (556)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module SessionServices (554)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module ViewportSnapping (552)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module ViewportInteraction (550)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module ClothPainter (548)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (547)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module LogVisualizer (544)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module IntroTutorials (542)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (541)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (538)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (536)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (534)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (532)
+[2019.01.03-17.49.59:356][985]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (531)
+[2019.01.03-17.50.00:941][985]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (528)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (526)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (524)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (522)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (520)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module InputBindingEditor (518)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module MergeActors (516)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (514)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module LocalizationService (513)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module HardwareTargeting (510)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (508)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module UndoHistory (506)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module XmlParser (504)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module Blutility (502)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (500)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (499)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (496)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module SettingsEditor (494)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module ProjectLauncher (492)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module SessionFrontend (490)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module ProfilerClient (488)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module DeviceManager (486)
+[2019.01.03-17.50.00:942][985]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (485)
+[2019.01.03-17.50.01:006][985]LogModuleManager: Shutting down and abandoning module AutomationController (482)
+[2019.01.03-17.50.01:006][985]LogModuleManager: Shutting down and abandoning module AutomationWindow (480)
+[2019.01.03-17.50.01:006][985]LogModuleManager: Shutting down and abandoning module Layers (478)
+[2019.01.03-17.50.01:007][985]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (476)
+[2019.01.03-17.50.01:007][985]LogModuleManager: Shutting down and abandoning module DetailCustomizations (474)
+[2019.01.03-17.50.01:007][985]LogModuleManager: Shutting down and abandoning module PackagesDialog (472)
+[2019.01.03-17.50.01:008][985]LogModuleManager: Shutting down and abandoning module Persona (470)
+[2019.01.03-17.50.01:009][985]LogModuleManager: Shutting down and abandoning module AnimGraph (469)
+[2019.01.03-17.50.01:009][985]LogModuleManager: Shutting down and abandoning module Kismet (466)
+[2019.01.03-17.50.01:021][985]LogModuleManager: Shutting down and abandoning module GraphEditor (464)
+[2019.01.03-17.50.01:022][985]LogModuleManager: Shutting down and abandoning module ClassViewer (462)
+[2019.01.03-17.50.01:022][985]LogModuleManager: Shutting down and abandoning module Toolbox (460)
+[2019.01.03-17.50.01:022][985]LogModuleManager: Shutting down and abandoning module DesktopPlatform (459)
+[2019.01.03-17.50.01:022][985]LogModuleManager: Shutting down and abandoning module ModuleUI (456)
+[2019.01.03-17.50.01:022][985]LogModuleManager: Shutting down and abandoning module MovieSceneTools (454)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module OutputLog (452)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module GammaUI (450)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module Documentation (448)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (446)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module MovieScene (444)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (442)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module LauncherPlatform (440)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module AnalyticsET (438)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module PortalServices (436)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module PortalRpc (434)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module MessagingRpc (432)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module AIModule (430)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module GameplayDebugger (429)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module AITestSuite (427)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module NavigationSystem (425)
+[2019.01.03-17.50.01:023][985]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (422)
+[2019.01.03-17.50.01:029][985]LogModuleManager: Shutting down and abandoning module ProfilerService (420)
+[2019.01.03-17.50.01:096][985]LogModuleManager: Shutting down and abandoning module TaskGraph (418)
+[2019.01.03-17.50.01:096][985]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (416)
+[2019.01.03-17.50.01:098][985]LogModuleManager: Shutting down and abandoning module VariantManager (414)
+[2019.01.03-17.50.01:098][985]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (412)
+[2019.01.03-17.50.01:098][985]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (411)
+[2019.01.03-17.50.01:098][985]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (410)
+[2019.01.03-17.50.01:098][985]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (407)
+[2019.01.03-17.50.01:098][985]LogModuleManager: Shutting down and abandoning module MDLImporter (404)
+[2019.01.03-17.50.01:098][985]LogModuleManager: Shutting down and abandoning module DatasmithImporter (402)
+[2019.01.03-17.50.01:099][985]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2019.01.03-17.50.01:099][985]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2019.01.03-17.50.01:099][985]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2019.01.03-17.50.01:099][985]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.01.03-17.50.01:099][985]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.01.03-17.50.01:099][985]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.01.03-17.50.01:099][985]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.01.03-17.50.01:099][985]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.01.03-17.50.01:099][985]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.01.03-17.50.01:099][985]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.01.03-17.50.01:100][985]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.01.03-17.50.01:100][985]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.01.03-17.50.01:100][985]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.01.03-17.50.01:100][985]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.01.03-17.50.01:100][985]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.01.03-17.50.01:100][985]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.01.03-17.50.01:114][985]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2019.01.03-17.50.01:114][985]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2019.01.03-17.50.01:114][985]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2019.01.03-17.50.01:114][985]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2019.01.03-17.50.01:114][985]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2019.01.03-17.50.01:114][985]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2019.01.03-17.50.01:114][985]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2019.01.03-17.50.01:114][985]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2019.01.03-17.50.01:114][985]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2019.01.03-17.50.01:114][985]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2019.01.03-17.50.01:115][985]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2019.01.03-17.50.01:115][985]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2019.01.03-17.50.01:115][985]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2019.01.03-17.50.01:115][985]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2019.01.03-17.50.01:115][985]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2019.01.03-17.50.01:115][985]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2019.01.03-17.50.01:115][985]LogModuleManager: Shutting down and abandoning module PolygonModeling (336)
+[2019.01.03-17.50.01:116][985]LogModuleManager: Shutting down and abandoning module MeshEditor (334)
+[2019.01.03-17.50.01:116][985]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (332)
+[2019.01.03-17.50.01:116][985]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.01.03-17.50.01:116][985]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.01.03-17.50.01:116][985]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.01.03-17.50.01:116][985]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.01.03-17.50.01:116][985]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.01.03-17.50.01:116][985]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.01.03-17.50.01:117][985]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.01.03-17.50.01:117][985]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.01.03-17.50.01:117][985]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.01.03-17.50.01:117][985]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.01.03-17.50.01:117][985]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2019.01.03-17.50.01:117][985]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2019.01.03-17.50.01:117][985]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.01.03-17.50.01:118][985]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.01.03-17.50.01:118][985]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.01.03-17.50.01:118][985]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.01.03-17.50.01:118][985]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2019.01.03-17.50.01:118][985]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.01.03-17.50.01:118][985]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.01.03-17.50.01:118][985]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.01.03-17.50.01:118][985]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.01.03-17.50.01:119][985]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.01.03-17.50.01:119][985]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.03-17.50.01:119][985]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.03-17.50.01:219][985]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.03-17.50.01:321][985]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.03-17.50.01:321][985]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.03-17.50.01:321][985]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.03-17.50.01:321][985]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.03-17.50.01:321][985]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.03-17.50.01:321][985]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.03-17.50.01:321][985]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.03-17.50.01:326][985]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.03-17.50.01:327][985]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.03-17.50.01:327][985]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.03-17.50.01:328][985]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.03-17.50.01:336][985]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.03-17.50.01:340][985]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.03-17.50.01:340][985]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.03-17.50.01:340][985]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.03-17.50.01:340][985]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.03-17.50.01:341][985]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.03-17.50.01:341][985]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.01.03-17.50.01:341][985]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.01.03-17.50.01:345][985]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.01.03-17.50.01:353][985]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.01.03-17.50.01:353][985]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.01.03-17.50.01:353][985]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.01.03-17.50.01:354][985]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.01.03-17.50.01:355][985]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.01.03-17.50.01:355][985]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.01.03-17.50.01:355][985]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.01.03-17.50.01:355][985]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.01.03-17.50.01:355][985]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.01.03-17.50.01:361][985]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.01.03-17.50.01:361][985]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.01.03-17.50.01:361][985]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.01.03-17.50.01:361][985]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.01.03-17.50.01:361][985]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.01.03-17.50.01:362][985]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.01.03-17.50.01:363][985]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.01.03-17.50.01:403][985]LogDerivedDataCache: Shutdown
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.01.03-17.50.01:403][985]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.01.03-17.50.01:404][985]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.01.03-17.50.01:404][985]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.01.03-17.50.01:404][985]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.01.03-17.50.01:404][985]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.01.03-17.50.01:404][985]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.01.03-17.50.01:404][985]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.01.03-17.50.01:404][985]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.01.03-17.50.01:412][985]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.01.03-17.50.01:413][985]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.01.03-17.50.01:413][985]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.01.03-17.50.01:413][985]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.01.03-17.50.01:413][985]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.01.03-17.50.01:416][985]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.01.03-17.50.01:416][985]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.01.03-17.50.01:420][985]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.01.03-17.50.01:420][985]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.01.03-17.50.01:449][985]LogHMD: Freeing OpenVRDLLHandle.
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.01.03-17.50.01:449][985]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.01.03-17.50.01:450][985]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.01.03-17.50.01:450][985]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.01.03-17.50.01:474][985]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.01.03-17.50.01:474][985]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.03-17.50.01:474][985]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B71E214B4-4C52-6763-ACC0-D38E933308DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=7069547245845272a166c19b2e8590a8%7C4028069c601940f586943140cc16a6f7%7Ca73cf1ea-9f32-4919-a33f-ab03c3f89f1d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.03-17.50.01:498][985]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.01.03-17.50.01:500][985]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.01.03-17.50.01:500][985]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.01.03-17.50.01:500][985]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.01.03-17.50.01:500][985]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.01.03-17.50.01:500][985]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.01.03-17.50.01:500][985]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.01.03-17.50.01:500][985]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.01.03-17.50.01:500][985]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.03-17.50.01:500][985]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.01.03-17.50.01:501][985]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.01.03-17.50.01:501][985]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.03-17.50.01:501][985]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.03-17.50.01:501][985]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.03-17.50.01:501][985]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.03-17.50.01:502][985]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.03-17.50.01:502][985]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.03-17.50.01:502][985]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.03-17.50.01:503][985]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.03-17.50.01:506][985]LogExit: Exiting.
+[2019.01.03-17.50.01:522][985]Log file closed, 01/03/19 20:50:01
