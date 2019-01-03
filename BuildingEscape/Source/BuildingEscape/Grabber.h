@@ -3,9 +3,13 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Engine/World.h"
+#include "DrawDebugHelpers.h"
+#include "CollisionQueryParams.h"
 #include "Components/ActorComponent.h"
 #include "Components/InputComponent.h"
-#include "DrawDebugHelpers.h"
+#include "Components/PrimitiveComponent.h"
+#include "GameFramework/PlayerController.h"
 #include "PhysicsEngine/PhysicsHandleComponent.h"
 #include "Grabber.generated.h"
 
