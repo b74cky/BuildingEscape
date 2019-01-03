@@ -865,3 +865,259 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.03-09.50.39:628][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
 [2019.01.03-09.50.39:686][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.01.03-09.50.39:729][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.03-10.04.07:619][574]LogHotReload: New module detected: UE4Editor-BuildingEscape-7549.dll
+[2019.01.03-10.04.08:301][577]LogHotReload: Starting Hot-Reload from IDE
+[2019.01.03-10.04.08:395][577]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2019.01.03-10.04.08:402][577]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.01.03-10.04.08:760][577]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2714 classes and 657 folders.
+[2019.01.03-10.04.08:763][577]Display: HotReload took  0.5s.
+[2019.01.03-10.04.10:906][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-10.04.11:947][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.03-10.04.12:863][660]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-10.04.12:896][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-10.04.12:896][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-10.04.12:896][660]PIE: New page: PIE session: NewMap (Jan 3, 2019, 4:04:12 PM)
+[2019.01.03-10.04.12:897][660]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-10.04.12:908][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010729s)
+[2019.01.03-10.04.12:910][660]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-10.04.12:911][660]LogPlayLevel: PIE: World Init took: (0.002357s)
+[2019.01.03-10.04.12:911][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.014144s)
+[2019.01.03-10.04.12:984][660]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-10.04.12:994][660]LogInit: FAudioDevice initialized.
+[2019.01.03-10.04.12:995][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-10.04.13:033][660]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-10.04.13:036][660]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-13.04.13
+[2019.01.03-10.04.13:038][660]LogWorld: Bringing up level for play took: 0.003496
+[2019.01.03-10.04.13:058][660]LogTemp: Warning: Grabber reporting for duty!
+[2019.01.03-10.04.13:058][660]LogTemp: Warning: Input component is found
+[2019.01.03-10.04.13:059][660]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.413
+[2019.01.03-10.04.13:060][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-10.04.17:294][834]LogTemp: Warning: Grab is pressed
+[2019.01.03-10.04.17:365][837]LogTemp: Warning: Grab is released
+[2019.01.03-10.04.18:816][901]LogTemp: Warning: Grab is pressed
+[2019.01.03-10.04.18:955][907]LogTemp: Warning: Grab is released
+[2019.01.03-10.04.19:935][950]LogTemp: Warning: Grab is pressed
+[2019.01.03-10.04.20:001][953]LogTemp: Warning: Grab is released
+[2019.01.03-10.04.20:801][988]LogTemp: Warning: Grab is pressed
+[2019.01.03-10.04.20:936][994]LogTemp: Warning: Grab is released
+[2019.01.03-10.04.21:416][ 15]LogTemp: Warning: Grab is pressed
+[2019.01.03-10.04.23:242][ 89]LogTemp: Warning: Grab is released
+[2019.01.03-10.04.24:526][140]LogTemp: Warning: Grab is pressed
+[2019.01.03-10.04.25:150][165]LogTemp: Warning: Grab is released
+[2019.01.03-10.04.26:390][214]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-10.04.26:391][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-10.04.26:445][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-10.04.26:446][214]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-10.04.26:509][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-10.04.26:563][215]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.03-10.08.14:639][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-10.42.38:833][226]LogHotReload: New module detected: UE4Editor-BuildingEscape-2564.dll
+[2019.01.03-10.42.39:529][229]LogHotReload: Starting Hot-Reload from IDE
+[2019.01.03-10.42.39:625][229]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2019.01.03-10.42.39:629][229]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.01.03-10.42.40:008][229]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2714 classes and 657 folders.
+[2019.01.03-10.42.40:011][229]Display: HotReload took  0.5s.
+[2019.01.03-11.04.26:759][121]LogHotReload: New module detected: UE4Editor-BuildingEscape-7149.dll
+[2019.01.03-11.04.27:466][124]LogHotReload: Starting Hot-Reload from IDE
+[2019.01.03-11.04.27:543][124]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.01.03-11.04.27:547][124]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.01.03-11.04.27:943][124]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2714 classes and 657 folders.
+[2019.01.03-11.04.27:945][124]Display: HotReload took  0.5s.
+[2019.01.03-11.04.31:261][187]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-11.04.31:294][187]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-11.04.31:296][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-11.04.31:296][187]PIE: New page: PIE session: NewMap (Jan 3, 2019, 5:04:31 PM)
+[2019.01.03-11.04.31:297][187]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.01.03-11.04.31:307][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009313s)
+[2019.01.03-11.04.31:307][187]LogAIModule: Creating AISystem for world NewMap
+[2019.01.03-11.04.31:308][187]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2019.01.03-11.04.31:308][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.011169s)
+[2019.01.03-11.04.31:379][187]LogInit: XAudio2 using 'Headset Earphone (Plantronics C320-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-11.04.31:389][187]LogInit: FAudioDevice initialized.
+[2019.01.03-11.04.31:427][187]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.01.03-11.04.31:433][187]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.01.03-14.04.31
+[2019.01.03-11.04.31:435][187]LogWorld: Bringing up level for play took: 0.006201
+[2019.01.03-11.04.31:455][187]LogTemp: Warning: Input component is found
+[2019.01.03-11.04.31:456][187]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.82
+[2019.01.03-11.04.31:458][187]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-11.04.41:104][591]LogTemp: Warning: Grab is pressed
+[2019.01.03-11.04.41:205][595]LogTemp: Warning: Grab is released
+[2019.01.03-11.04.43:167][674]LogTemp: Warning: Grab is pressed
+[2019.01.03-11.04.43:974][706]LogTemp: Warning: Grab is released
+[2019.01.03-11.04.44:890][742]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.44:916][743]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.44:941][744]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.44:966][745]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.44:991][746]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:016][747]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:072][749]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:097][750]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:123][751]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:149][752]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:174][753]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:198][754]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:220][755]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:245][756]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:271][757]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:292][758]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:320][759]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:339][760]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:371][761]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:394][762]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:425][763]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:447][764]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:470][765]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:492][766]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:518][767]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:544][768]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:571][769]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:592][770]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:617][771]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:636][772]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:660][773]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:685][774]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:712][775]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:738][776]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:762][777]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:787][778]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:812][779]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:837][780]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:861][781]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:885][782]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:911][783]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.45:938][784]LogTemp: Warning: Line trace hit: SM_Chair2_8
+[2019.01.03-11.04.46:698][813]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.46:723][814]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.46:748][815]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.46:773][816]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:696][973]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:721][974]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:747][975]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:772][976]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:797][977]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:822][978]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:844][979]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:868][980]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:891][981]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:915][982]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:939][983]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:961][984]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.50:984][985]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:007][986]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:030][987]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:053][988]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:077][989]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:100][990]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:123][991]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:146][992]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:171][993]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:194][994]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:216][995]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:238][996]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:260][997]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:282][998]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:305][999]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:327][  0]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:351][  1]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:375][  2]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:398][  3]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:421][  4]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:446][  5]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:468][  6]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:493][  7]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:516][  8]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:538][  9]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:562][ 10]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:587][ 11]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:611][ 12]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:633][ 13]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:657][ 14]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:680][ 15]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:702][ 16]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:725][ 17]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.51:748][ 18]LogTemp: Warning: Line trace hit: SM_Chair3_19
+[2019.01.03-11.04.54:634][133]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:659][134]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:684][135]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:710][136]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:734][137]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:760][138]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:785][139]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:809][140]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:835][141]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:860][142]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:884][143]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:909][144]LogTemp: Warning: Grab is pressed
+[2019.01.03-11.04.54:910][144]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:935][145]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:959][146]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.54:984][147]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.55:085][151]LogTemp: Warning: Grab is released
+[2019.01.03-11.04.55:779][179]LogTemp: Warning: Grab is pressed
+[2019.01.03-11.04.55:852][182]LogTemp: Warning: Grab is released
+[2019.01.03-11.04.58:664][296]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:688][297]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:712][298]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:736][299]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:759][300]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:783][301]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:808][302]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:832][303]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:858][304]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:882][305]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:906][306]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:930][307]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:955][308]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.58:980][309]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:004][310]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:030][311]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:055][312]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:080][313]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:106][314]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:128][315]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:151][316]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:176][317]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:202][318]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:225][319]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:250][320]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:274][321]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:298][322]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:324][323]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:347][324]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:372][325]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:396][326]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:420][327]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:445][328]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:468][329]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:492][330]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:516][331]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:540][332]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:566][333]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:588][334]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:613][335]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:637][336]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:661][337]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:686][338]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:710][339]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:735][340]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:759][341]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:783][342]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:806][343]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:829][344]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:853][345]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:877][346]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:901][347]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:925][348]LogTemp: Warning: Line trace hit: SM_Chair_5
+[2019.01.03-11.04.59:927][348]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-11.04.59:929][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-11.04.59:993][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-11.04.59:995][348]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.01.03-11.05.00:070][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-11.05.00:128][349]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.03-11.05.16:161][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-11.10.20:040][596]LogHotReload: New module detected: UE4Editor-BuildingEscape-2075.dll
+[2019.01.03-11.10.20:727][599]LogHotReload: Starting Hot-Reload from IDE
+[2019.01.03-11.10.20:802][599]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.01.03-11.10.20:807][599]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.01.03-11.10.21:146][599]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2714 classes and 657 folders.
+[2019.01.03-11.10.21:148][599]Display: HotReload took  0.4s.
