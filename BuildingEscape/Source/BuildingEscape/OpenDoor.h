@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+#include "Components/PrimitiveComponent.h"
 #include "Engine/TriggerVolume.h"
 #include "Gameframework/Actor.h"
 #include "GameFramework/PlayerController.h"

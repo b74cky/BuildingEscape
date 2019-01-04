@@ -2,6 +2,7 @@
 
 #include "OpenDoor.h"
 
+
 #define OUT
 
 // Sets default values for this component's properties
@@ -61,9 +62,8 @@ float UOpenDoor::GetTotalMassOfActorsOnPlate() {
 	PressurePlate->GetOverlappingActors(OUT OverlappingActors);
 
 	// Iterate through them adding their masses
-	for (auto* Actor : OverlappingActors) {
+	for (const auto* Actor : OverlappingActors) {
 		TotalMass += Actor->FindComponentByClass<UPrimitiveComponent>()->GetMass();
-		UE_LOG(LogTemp, Warning, TEXT("%s"), *Actor->GetName())
 	}
 
 	return TotalMass;
