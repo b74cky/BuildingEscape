@@ -44,8 +44,5 @@ private:
 	float TriggerMass = 30.f;
 
 	AActor* Owner = nullptr; // The owning door
-
-	FRotator InitialDoorAngle;
-
 	float GetTotalMassOfActorsOnPlate(); // returns total mass in kg
 };

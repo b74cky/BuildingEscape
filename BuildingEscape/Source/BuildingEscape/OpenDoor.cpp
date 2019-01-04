@@ -25,8 +25,6 @@ void UOpenDoor::BeginPlay()
 	if (!PressurePlate) {
 		UE_LOG(LogTemp, Error, TEXT("%s missing pressure plate"), *GetOwner()->GetName())
 	}
-	InitialDoorAngle = Owner->GetActorRotation();
-	
 }
 
 // Called every frame
@@ -55,7 +53,6 @@ float UOpenDoor::GetTotalMassOfActorsOnPlate() {
 	for (const auto* Actor : OverlappingActors) {
 		TotalMass += Actor->FindComponentByClass<UPrimitiveComponent>()->GetMass();
 	}
-
 	return TotalMass;
 }
 
